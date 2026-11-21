@@ -1,13 +1,13 @@
 # 原始 JATS 全文语料目录
 
-已保存 **17/17 篇**原样 XML（设计 8；结果 6；边界 3）。
+已保存 **17/17 篇**原样 XML（设计 7；结果 5；边界 5）。
 所有文件均通过 XML 内 PMCID、明确 CC BY 授权、非空 `<body>` 和非空 `<ref-list>` 检查；每篇 SHA-256 对应本目录实际保存的原始字节。
-设计组八篇按原样复制自先前获取的 Europe PMC JATS 文件，其中 `design/PMC12970100.xml` 为观察性边界反例；其余九篇从下述逐篇 Europe PMC `fullTextXML` URL 获取，未改变响应体字节。
-每篇同名 `.txt` 是先前生成、此处原样复制的**非原件提取文本**，并非本次从 XML 转换所得；设计组来自本地 `corpus/design/text/`，其余来自本地 `corpus/results/fulltext/`。TXT 可能不含参考文献、版权或许可声明，也可能与此次 JATS 获取版本不同；核对完整正文与参考文献、版权和许可时**只以原始 XML 为准**。
+八篇设计来源按原样复制自先前获取的 Europe PMC JATS 文件，其中观察性反例位于 boundary；其余九篇从下述逐篇 Europe PMC `fullTextXML` URL 获取，未改变响应体字节。
+每篇同名 `.txt` 是先前生成、此处原样复制的**非原件提取文本**，并非本次从 XML 转换所得；八篇设计来源来自本地 `corpus/design/text/`，其余来自本地 `corpus/results/fulltext/`。TXT 可能不含参考文献、版权或许可声明，也可能与此次 JATS 获取版本不同；核对完整正文与参考文献、版权和许可时**只以原始 XML 为准**。
 
 **内容边界：**XML 包含文章文字、表格、图题和参考文献（具体以各文件为准）；它**不包含图片像素/PDF/补充文件**，不是完整出版包。未下载或再分发任何许可未单独确认的图片与补充材料。文件中的原作者、原文版权和许可声明未修改；如图表或第三方材料标注不同权利，请遵从原文具体署名/许可要求。
 
-**体裁边界：**`design/` 含研究设计/方案，不应当成已经观察到的结果，其中 PMC12970100 是非随机观察性反例；`results/PMC11727367.xml` 是既有研究合并再分析而非新实验；`boundary/` 三篇均不得宣称严格受控实验。体裁分类仅用于选例，不是原作者的许可声明。
+**体裁边界：**`design/` 含研究设计/方案，不应当成已经观察到的结果；`results/` 收录结果案例；`boundary/` 包含观察性方案、既有研究合并再分析及其他边界案例，不得宣称严格受控实验。体裁分类仅用于选例，不是原作者的许可声明。
 ## 逐篇索引
 
 | 分组 / PMCID | 原标题 | 作者 | DOI | XML article-type | SHA-256 |
@@ -19,13 +19,13 @@
 | design / [PMC13082699](design/PMC13082699.xml) | Retraining gait in Parkinson’s Disease via a personalised app: A study protocol | Conor Wall, Peter McMeekin, Victoria Hetherington, Rosie Morris, Rodrigo Vitorio, Richard Walker, Alan Godfrey | [10.1371/journal.pone.0346508](https://doi.org/10.1371/journal.pone.0346508) | research-article | `43d36d36c5e0d5752b877362d106031ad34487522345fadd238711966905b280` |
 | design / [PMC13134233](design/PMC13134233.xml) | Stakeholder preferences on digital health in Germany: a health preference study protocol | Axel Mühlbacher, Andrew Sadler, Ann-Kathrin Fischer | [10.1186/s12913-026-14216-8](https://doi.org/10.1186/s12913-026-14216-8) | research-article | `974fcbbe2e634fc01f0de57b518a7dbb1d797be650eaa4b1ab4b5be95b649df0` |
 | design / [PMC13068213](design/PMC13068213.xml) | Pain processing and pain assessment in Huntington’s disease: Study protocol of the Huntington’s disease - PAIN study | Gregory P. Sprenger, Monique van Velzen, Wilco P. Achterberg, Raymund A.C. Roos, Susanne T. de Bot | [10.1371/journal.pone.0346039](https://doi.org/10.1371/journal.pone.0346039) | research-article | `04578377ea71a47de4e3ba0229fec702907028a29dc75f7b22f7f68c02018ce6` |
-| design / [PMC12970100](design/PMC12970100.xml) | Societal consequences of IPS implementation in Norway 2012–2019: study protocol for the IPSRON effectiveness study | Arnstein Mykletun, Nils Abel Aars, Thomas Lorentzen, Miles Rinaldi, Elisabeth Sandtorv, David McDaid, Cathrine Fredriksen Moe, A-La Park, Eoin Killackey, B Brinchmann | [10.1136/bmjopen-2025-102179](https://doi.org/10.1136/bmjopen-2025-102179) | research-article | `f33d908f78eb5b706a2aa3cfe0abd2854721b60384483a2e4c2d0ab552332925` |
 | results / [PMC11674246](results/PMC11674246.xml) | Effects of nitrogen doses on stomatal characteristics, chlorophyll content, and agronomic traits in wheat (Triticum aestivum L.) | Fatih Oner, Imren Kutlu | [10.7717/peerj.18792](https://doi.org/10.7717/peerj.18792) | research-article | `bd31d05a174a070fcff02830b63db66f67fbf33621827b717f5b909503e88309` |
 | results / [PMC11701235](results/PMC11701235.xml) | Can motor competence be influenced by the type of training interventions preschool children are exposed to? A randomized experimental study comparing sports games and psychomotricity activities | Xiaodan Guo, Chuangtao Li, Zhaoxiang Zhang, Ana Filipa Silva, Filipe Manuel Clemente | [10.3389/fpsyg.2024.1476297](https://doi.org/10.3389/fpsyg.2024.1476297) | research-article | `1584f635c44e62adad0ba31cb71e82ccc9a3cf3f0367ffbef24899f9da96a989` |
-| results / [PMC11727367](results/PMC11727367.xml) | Disentangling emotional source memory: a mega-analysis on the effects of emotion on item-context binding in episodic long-term memory | Carlos Ventura-Bort, Yuta Katsumi, Janine Wirkner, Julia Wendt, Lars Schwabe, Alfons O Hamm, Florin Dolcos, Mathias Weymar | [10.3389/fpsyg.2024.1459617](https://doi.org/10.3389/fpsyg.2024.1459617) | research-article | `21dd7b963035614568218c7b0bd3514a8bab6ea941248d2d43890b1a555687e9` |
 | results / [PMC11688440](results/PMC11688440.xml) | Improving small-scale cultivation of Spodoptera frugiperda 9 cells by silanizing glassware | Kristina Worch, Benjamin Ole Mühlnickel, Jana Pieper, Antje Burse | [10.1038/s41598-024-84093-w](https://doi.org/10.1038/s41598-024-84093-w) | research-article | `decb0c420c97596149b595ad8af03a80f694168cf3372b34d1a9df6fa25974f0` |
 | results / [PMC11695244](results/PMC11695244.xml) | Improvement of antioxidant capacity, aroma quality, and antifungal ability of cherry by phenyllactic acid treatment during low temperature storage | Chaoqi Zhang, Yunfan Wang, Mengxin Wang, Yanhui Kong, Xiulian Li, Danliangmin Song, Xiangquan Zeng, Yanqing Yang, Xinguang Fan, Hansheng Gong | [10.3389/fpls.2024.1529127](https://doi.org/10.3389/fpls.2024.1529127) | research-article | `42ac5431086fd1f5100925f58b667cd6903b2d10015142cc944519cf2ec543ab` |
 | results / [PMC11655176](results/PMC11655176.xml) | Skinks on a Plane: Does Human‐Mediated Transportation Impact the Behaviour of an Invasive Lizard? | Jaclyn Harris, Celine T. Goulet, David G. Chapple | [10.1002/ece3.70748](https://doi.org/10.1002/ece3.70748) | research-article | `a79073b3a60f111f0cc28a15fb04999aa5d2ade069072fd5f43bad277a78dcd0` |
+| boundary / [PMC12970100](boundary/PMC12970100.xml) | Societal consequences of IPS implementation in Norway 2012–2019: study protocol for the IPSRON effectiveness study | Arnstein Mykletun, Nils Abel Aars, Thomas Lorentzen, Miles Rinaldi, Elisabeth Sandtorv, David McDaid, Cathrine Fredriksen Moe, A-La Park, Eoin Killackey, B Brinchmann | [10.1136/bmjopen-2025-102179](https://doi.org/10.1136/bmjopen-2025-102179) | research-article | `f33d908f78eb5b706a2aa3cfe0abd2854721b60384483a2e4c2d0ab552332925` |
+| boundary / [PMC11727367](boundary/PMC11727367.xml) | Disentangling emotional source memory: a mega-analysis on the effects of emotion on item-context binding in episodic long-term memory | Carlos Ventura-Bort, Yuta Katsumi, Janine Wirkner, Julia Wendt, Lars Schwabe, Alfons O Hamm, Florin Dolcos, Mathias Weymar | [10.3389/fpsyg.2024.1459617](https://doi.org/10.3389/fpsyg.2024.1459617) | research-article | `21dd7b963035614568218c7b0bd3514a8bab6ea941248d2d43890b1a555687e9` |
 | boundary / [PMC11664210](boundary/PMC11664210.xml) | Effects of Vegetation Restoration Type on Soil Greenhouse Gas Emissions and Associated Microbial Regulation on the Loess Plateau | Jihai Zhou, Daokun Liu, Shangqi Xu, Xiaoping Li, Jiyong Zheng, Fengpeng Han, Shoubiao Zhou, Meng Na | [10.1002/ece3.70688](https://doi.org/10.1002/ece3.70688) | research-article | `b9a949389fde457a35cf6c7c6418af0d61e7808132e238541597e79f52812d87` |
 | boundary / [PMC11703835](boundary/PMC11703835.xml) | Mental health dynamics between mothers and siblings of children with disabilities | Erica Zahl, Hugo Cogo-Moreira, Trude Fredriksen, Solveig Kirchhofer, Stian Orm, Torun Vatne, Matteo Botta, Krister Fjermestad | [10.3389/fpsyg.2024.1501343](https://doi.org/10.3389/fpsyg.2024.1501343) | research-article | `2f4b8d5cd0a7520b5eded12d596a869e64696838ea8f715f6ae8da90b406a85e` |
 | boundary / [PMC11689214](boundary/PMC11689214.xml) | Touching at a distance: the elaboration of communicative functions from the perspective of the interactants | Robin Héron, Stéphane Safin, Michael Baker, Zhuoming Zhang, Eric Lecolinet, Françoise Détienne | [10.3389/fpsyg.2024.1497289](https://doi.org/10.3389/fpsyg.2024.1497289) | research-article | `bac65c88235229e079dcf424c1d49f5d1a96149ec94e61f686aa8c33f1784c62` |
@@ -118,19 +118,6 @@
 - 许可原文：https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed under the terms of the Creative Commons Attribution License , which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
 - 许可链接（原 XML）：https://creativecommons.org/licenses/by/4.0/
 
-### PMC12970100 · design
-
-- 文件：`design/PMC12970100.xml`；大小：110101 字节；SHA-256：`f33d908f78eb5b706a2aa3cfe0abd2854721b60384483a2e4c2d0ab552332925`。
-- 非原件提取文本：[design/PMC12970100.txt](design/PMC12970100.txt)；大小：37585 字节；SHA-256：`939f4431153e2836a3a72e0b0bd3be62422ffcc84d7c15d44c2b7697ff71d26e`；可能省略参考文献/版权/许可，不能替代 XML。
-- 原文：[Europe PMC 文章页](https://europepmc.org/articles/PMC12970100)；[原始全文 XML 接口](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12970100/fullTextXML)。
-- 原标题：Societal consequences of IPS implementation in Norway 2012–2019: study protocol for the IPSRON effectiveness study
-- 作者：Arnstein Mykletun, Nils Abel Aars, Thomas Lorentzen, Miles Rinaldi, Elisabeth Sandtorv, David McDaid, Cathrine Fredriksen Moe, A-La Park, Eoin Killackey, B Brinchmann
-- DOI：[10.1136/bmjopen-2025-102179](https://doi.org/10.1136/bmjopen-2025-102179)；原始 JATS article-type：`research-article`；参考文献条目：69。
-- 版权原文/字段：Copyright © Author(s) (or their employer(s)) 2026. Re-use permitted under CC BY. Published by BMJ Group.; Copyright year: 2026
-- 许可原文：https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed in accordance with the Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits others to copy, redistribute, remix, transform and build upon this work for any purpose, provided the original work is properly cited, a link to the licence is given, and indication of whether changes were made. See: https://creativecommons.org/licenses/by/4.0/ .
-- 许可链接（原 XML）：https://creativecommons.org/licenses/by/4.0/
-- 体裁标记：设计组边界：非随机观察性/自然实施评估方案；并非随机受控实验。
-
 ### PMC11674246 · results
 
 - 文件：`results/PMC11674246.xml`；大小：211563 字节；SHA-256：`bd31d05a174a070fcff02830b63db66f67fbf33621827b717f5b909503e88309`。
@@ -154,19 +141,6 @@
 - 版权原文/字段：Copyright © 2024 Guo, Li, Zhang, Silva and Clemente.
 - 许可原文：This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
 - 许可链接（原 XML）：XML 未提供许可 URL；不要推定许可版本。
-
-### PMC11727367 · results
-
-- 文件：`results/PMC11727367.xml`；大小：277411 字节；SHA-256：`21dd7b963035614568218c7b0bd3514a8bab6ea941248d2d43890b1a555687e9`。
-- 非原件提取文本：[results/PMC11727367.txt](results/PMC11727367.txt)；大小：62571 字节；SHA-256：`172d302370f103cdda2ac6d3eb34defe8b285d92f70737d55d7ebcfa2422d503`；可能省略参考文献/版权/许可，不能替代 XML。
-- 原文：[Europe PMC 文章页](https://europepmc.org/articles/PMC11727367)；[原始全文 XML 接口](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11727367/fullTextXML)。
-- 原标题：Disentangling emotional source memory: a mega-analysis on the effects of emotion on item-context binding in episodic long-term memory
-- 作者：Carlos Ventura-Bort, Yuta Katsumi, Janine Wirkner, Julia Wendt, Lars Schwabe, Alfons O Hamm, Florin Dolcos, Mathias Weymar
-- DOI：[10.3389/fpsyg.2024.1459617](https://doi.org/10.3389/fpsyg.2024.1459617)；原始 JATS article-type：`research-article`；参考文献条目：149。
-- 版权原文/字段：Copyright © 2024 Ventura-Bort, Katsumi, Wirkner, Wendt, Schwabe, Hamm, Dolcos and Weymar.
-- 许可原文：This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
-- 许可链接（原 XML）：XML 未提供许可 URL；不要推定许可版本。
-- 体裁标记：结果组边界：多项既有研究的合并再分析，非新实施实验。
 
 ### PMC11688440 · results
 
@@ -203,6 +177,32 @@
 - 版权原文/字段：© 2024 The Author(s). Ecology and Evolution published by John Wiley & Sons Ltd.
 - 许可原文：https://creativecommons.org/licenses/by/4.0/ This is an open access article under the terms of the http://creativecommons.org/licenses/by/4.0/ License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.
 - 许可链接（原 XML）：https://creativecommons.org/licenses/by/4.0/
+
+### PMC12970100 · boundary
+
+- 文件：`boundary/PMC12970100.xml`；大小：110101 字节；SHA-256：`f33d908f78eb5b706a2aa3cfe0abd2854721b60384483a2e4c2d0ab552332925`。
+- 非原件提取文本：[boundary/PMC12970100.txt](boundary/PMC12970100.txt)；大小：37585 字节；SHA-256：`939f4431153e2836a3a72e0b0bd3be62422ffcc84d7c15d44c2b7697ff71d26e`；可能省略参考文献/版权/许可，不能替代 XML。
+- 原文：[Europe PMC 文章页](https://europepmc.org/articles/PMC12970100)；[原始全文 XML 接口](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12970100/fullTextXML)。
+- 原标题：Societal consequences of IPS implementation in Norway 2012–2019: study protocol for the IPSRON effectiveness study
+- 作者：Arnstein Mykletun, Nils Abel Aars, Thomas Lorentzen, Miles Rinaldi, Elisabeth Sandtorv, David McDaid, Cathrine Fredriksen Moe, A-La Park, Eoin Killackey, B Brinchmann
+- DOI：[10.1136/bmjopen-2025-102179](https://doi.org/10.1136/bmjopen-2025-102179)；原始 JATS article-type：`research-article`；参考文献条目：69。
+- 版权原文/字段：Copyright © Author(s) (or their employer(s)) 2026. Re-use permitted under CC BY. Published by BMJ Group.; Copyright year: 2026
+- 许可原文：https://creativecommons.org/licenses/by/4.0/ This is an open access article distributed in accordance with the Creative Commons Attribution 4.0 Unported (CC BY 4.0) license, which permits others to copy, redistribute, remix, transform and build upon this work for any purpose, provided the original work is properly cited, a link to the licence is given, and indication of whether changes were made. See: https://creativecommons.org/licenses/by/4.0/ .
+- 许可链接（原 XML）：https://creativecommons.org/licenses/by/4.0/
+- 体裁标记：设计边界：非随机观察性/自然实施评估方案；并非随机受控实验。
+
+### PMC11727367 · boundary
+
+- 文件：`boundary/PMC11727367.xml`；大小：277411 字节；SHA-256：`21dd7b963035614568218c7b0bd3514a8bab6ea941248d2d43890b1a555687e9`。
+- 非原件提取文本：[boundary/PMC11727367.txt](boundary/PMC11727367.txt)；大小：62571 字节；SHA-256：`172d302370f103cdda2ac6d3eb34defe8b285d92f70737d55d7ebcfa2422d503`；可能省略参考文献/版权/许可，不能替代 XML。
+- 原文：[Europe PMC 文章页](https://europepmc.org/articles/PMC11727367)；[原始全文 XML 接口](https://www.ebi.ac.uk/europepmc/webservices/rest/PMC11727367/fullTextXML)。
+- 原标题：Disentangling emotional source memory: a mega-analysis on the effects of emotion on item-context binding in episodic long-term memory
+- 作者：Carlos Ventura-Bort, Yuta Katsumi, Janine Wirkner, Julia Wendt, Lars Schwabe, Alfons O Hamm, Florin Dolcos, Mathias Weymar
+- DOI：[10.3389/fpsyg.2024.1459617](https://doi.org/10.3389/fpsyg.2024.1459617)；原始 JATS article-type：`research-article`；参考文献条目：149。
+- 版权原文/字段：Copyright © 2024 Ventura-Bort, Katsumi, Wirkner, Wendt, Schwabe, Hamm, Dolcos and Weymar.
+- 许可原文：This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms.
+- 许可链接（原 XML）：XML 未提供许可 URL；不要推定许可版本。
+- 体裁标记：结果边界：多项既有研究的合并再分析，非新实施实验。
 
 ### PMC11664210 · boundary
 
