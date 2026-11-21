@@ -1,0 +1,725 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article id="mpr70064" xml:lang="en" article-type="research-article" dtd-version="1.4"><processing-meta base-tagset="archiving" mathml-version="3.0" table-model="xhtml" tagset-family="jats"><restricted-by>pmc</restricted-by></processing-meta><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Methods Psychiatr Res</journal-id><journal-id journal-id-type="iso-abbrev">Int J Methods Psychiatr Res</journal-id><journal-id journal-id-type="pmc-domain-id">3756</journal-id><journal-id journal-id-type="pmc-domain">intjmethods</journal-id><journal-id journal-id-type="nlm-id">9111433</journal-id><journal-id journal-id-type="publisher-id">MPR</journal-id><journal-title-group><journal-title>International Journal of Methods in Psychiatric Research</journal-title></journal-title-group><issn pub-type="ppub">1049-8931</issn><issn pub-type="epub">1557-0657</issn><?publisher_abbrev blackwell?><publisher><publisher-name>Wiley</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC12969494</article-id><article-id pub-id-type="pmcid-ver">PMC12969494.1</article-id><article-id pub-id-type="pmcaid">12969494</article-id><article-id pub-id-type="pmcaiid">12969494</article-id><article-id pub-id-type="pmid">41800799</article-id><article-id pub-id-type="doi">10.1002/mpr.70064</article-id><article-id pub-id-type="publisher-id">MPR70064</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Youth Aware of Mental Health for Danish School Adolescents: Study Protocol for a Cluster‐Randomized Feasibility Pilot Trial</article-title></title-group><contrib-group><contrib id="mpr70064-cr-0001" contrib-type="author"><name name-style="western"><surname>Harris</surname><given-names initials="LK">Lasse K.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0002-2732-4342</contrib-id><xref rid="mpr70064-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mpr70064-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref></contrib><contrib id="mpr70064-cr-0002" contrib-type="author"><name name-style="western"><surname>Heinrichsen</surname><given-names initials="M">Michella</given-names></name><xref rid="mpr70064-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mpr70064-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mpr70064-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="mpr70064-cr-0003" contrib-type="author"><name name-style="western"><surname>Petri</surname><given-names initials="M">Marie</given-names></name><xref rid="mpr70064-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref></contrib><contrib id="mpr70064-cr-0004" contrib-type="author"><name name-style="western"><surname>Elberling</surname><given-names initials="H">Hanne</given-names></name><xref rid="mpr70064-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mpr70064-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="mpr70064-cr-0005" contrib-type="author"><name name-style="western"><surname>Forman</surname><given-names initials="JL">Julie L.</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0001-7368-0869</contrib-id><xref rid="mpr70064-aff-0004" ref-type="aff">
+<sup>4</sup>
+</xref></contrib><contrib id="mpr70064-cr-0006" contrib-type="author"><name name-style="western"><surname>Nordentoft</surname><given-names initials="M">Merete</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">https://orcid.org/0000-0003-4895-7023</contrib-id><xref rid="mpr70064-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mpr70064-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref></contrib><contrib id="mpr70064-cr-0007" contrib-type="author"><name name-style="western"><surname>Erlangsen</surname><given-names initials="A">Annette</given-names></name><xref rid="mpr70064-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mpr70064-aff-0005" ref-type="aff">
+<sup>5</sup>
+</xref><xref rid="mpr70064-aff-0006" ref-type="aff">
+<sup>6</sup>
+</xref><xref rid="mpr70064-aff-0007" ref-type="aff">
+<sup>7</sup>
+</xref></contrib><contrib id="mpr70064-cr-0008" contrib-type="author" corresp="yes"><name name-style="western"><surname>Morthorst</surname><given-names initials="BR">Britt R.</given-names></name><xref rid="mpr70064-aff-0001" ref-type="aff">
+<sup>1</sup>
+</xref><xref rid="mpr70064-aff-0002" ref-type="aff">
+<sup>2</sup>
+</xref><xref rid="mpr70064-aff-0003" ref-type="aff">
+<sup>3</sup>
+</xref><address><email>britt.reuter.morthorst@regionh.dk</email></address></contrib></contrib-group><aff content-type="private-address" id="mpr70064-aff-0001">
+<label>
+<sup>1</sup>
+</label>
+<institution>Child and Adolescent Mental Health Center</institution>
+<institution>Copenhagen University Hospital ‐ Mental Health Services CPH</institution>
+<city>Copenhagen</city>
+<country country="DK">Denmark</country>
+</aff><aff content-type="private-address" id="mpr70064-aff-0002">
+<label>
+<sup>2</sup>
+</label>
+<institution>Danish Research Institute for Suicide Prevention ‐ DRISP</institution>
+<institution>Mental Health Center Copenhagen</institution>
+<city>Copenhagen</city>
+<country country="DK">Denmark</country>
+</aff><aff id="mpr70064-aff-0003">
+<label>
+<sup>3</sup>
+</label>
+<named-content content-type="organisation-division">Department of Clinical Medicine</named-content>
+<named-content content-type="organisation-division">Faculty of Health and Medical Sciences</named-content>
+<institution>University of Copenhagen</institution>
+<city>Copenhagen</city>
+<country country="DK">Denmark</country>
+</aff><aff id="mpr70064-aff-0004">
+<label>
+<sup>4</sup>
+</label>
+<named-content content-type="organisation-division">Section of Biostatistics</named-content>
+<named-content content-type="organisation-division">Department of Public Health</named-content>
+<named-content content-type="organisation-division">Faculty of Health and Medical Sciences</named-content>
+<institution>University of Copenhagen</institution>
+<city>Copenhagen</city>
+<country country="DK">Denmark</country>
+</aff><aff content-type="private-address" id="mpr70064-aff-0005">
+<label>
+<sup>5</sup>
+</label>
+<institution>Copenhagen Research Center for Mental Health</institution>
+<institution>Mental Health Centre Copenhagen</institution>
+<city>Copenhagen</city>
+<country country="DK">Denmark</country>
+</aff><aff content-type="private-address" id="mpr70064-aff-0006">
+<label>
+<sup>6</sup>
+</label>
+<institution>Centre for Mental Health Research</institution>
+<institution>National Centre for Epidemiology and Population Health</institution>
+<institution>The Australian National University</institution>
+<city>Canberra</city>
+<country country="AU">Australia</country>
+</aff><aff id="mpr70064-aff-0007">
+<label>
+<sup>7</sup>
+</label>
+<named-content content-type="organisation-division">Department of Mental Health</named-content>
+<institution>Johns Hopkins Bloomberg School of Public Health</institution>
+<city>Baltimore</city>
+<named-content content-type="country-part">Maryland</named-content>
+<country country="US">USA</country>
+</aff><author-notes><corresp id="correspondenceTo">
+<label>*</label>
+<bold>Correspondence:</bold> Britt R. Morthorst<break/>
+(<email>britt.reuter.morthorst@regionh.dk</email>)<break/>
+</corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>3</month><year>2026</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2026</year></pub-date><volume>35</volume><issue seq="20">1</issue><issue-id pub-id-type="pmc-issue-id">505607</issue-id><issue-id pub-id-type="doi">10.1002/mpr.v35.1</issue-id><elocation-id>e70064</elocation-id><history>
+<date date-type="rev-recd"><day>23</day><month>10</month><year>2025</year></date>
+<date date-type="received"><day>05</day><month>6</month><year>2025</year></date>
+<date date-type="accepted"><day>20</day><month>1</month><year>2026</year></date>
+</history><pub-history><event event-type="pmc-release"><date><day>09</day><month>03</month><year>2026</year></date></event><event event-type="pmc-live"><date><day>10</day><month>03</month><year>2026</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2026-03-10 10:25:14.827"><day>10</day><month>03</month><year>2026</year></date></event></pub-history><permissions><copyright-statement content-type="article-copyright">© 2026 The Author(s). <italic toggle="yes">International Journal of Methods in Psychiatric Research</italic> published by John Wiley &amp; Sons Ltd.</copyright-statement><license><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This is an open access article under the terms of the <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="uri" xlink:href="https://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="MPR-35-e70064.pdf"><?pdf-name MPR-35-e70064.pdf?><?pdf-size 1391488?><?pdf-md5 70b0c5bf7df88b1fa3f7b639dd8d063f?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:7112/12969494/70b0c5bf7df8/MPR-35-e70064.pdf?></self-uri><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pdf" xlink:href="file:MPR-35-e70064.pdf"/><abstract><title>ABSTRACT</title><sec id="mpr70064-sec-0001"><title>Objectives</title><p>(1) To investigate the feasibility, acceptability, and fidelity of delivering the Youth Aware of Mental Health (YAM) program in Danish public schools to 8‐9th‐grade students, and (2) to explore the preliminary effects of the program on self‐reported outcomes at 3‐ and 6‐month follow‐up.</p></sec><sec id="mpr70064-sec-0002"><title>Methods</title><p>This two‐armed, cluster‐randomized feasibility pilot trial involves 8–10 public schools across Denmark. School 8‐9th‐grade students are allocated to receive either the YAM program in addition to curriculum as usual or curriculum as usual plus YAM posters. Primary outcomes are participation rates, program adherence, and questionnaire completion. Secondary outcomes are assessed through questionnaires measuring suicidal behavior, psychological distress, well‐being, help‐seeking intentions, and suicide‐related stigma. Data are collected at baseline, 3‐month, and 6‐month follow‐up and analyzed using descriptive statistics and multi‐level models to estimate preliminary effects.</p></sec><sec id="mpr70064-sec-0003"><title>Results</title><p>Recruitment began in August 2024, and the 6‐month follow‐up assessment will conclude in July 2025.</p></sec><sec id="mpr70064-sec-0004"><title>Conclusion</title><p>This trial provides insight into the practical delivery of YAM in Danish public schools. Findings will inform potential adaptations and guide future implementation designs for school‐based mental health strategies.</p></sec></abstract><kwd-group><kwd id="mpr70064-kwd-0001">adolescent</kwd><kwd id="mpr70064-kwd-0002">feasibility trial</kwd><kwd id="mpr70064-kwd-0003">suicide prevention</kwd><kwd id="mpr70064-kwd-0004">youth aware of mental health</kwd></kwd-group><funding-group><award-group id="funding-0001"><funding-source>
+<institution-wrap><institution>Novo Nordisk Fonden</institution></institution-wrap>
+</funding-source><award-id>NNF23SA0083854</award-id></award-group></funding-group><counts><fig-count count="3"/><table-count count="2"/><page-count count="11"/><word-count count="6574"/></counts><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2026</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_JATSPMC version:6.7.1 mode:remove_FC converted:09.03.2026</meta-value></custom-meta></custom-meta-group></article-meta></front><body id="mpr70064-body-0001"><sec id="mpr70064-sec-0010"><label>1</label><title>Introduction</title><p>Adolescence represents a crucial period for mental health development. Mental distress, including symptoms of depression and anxiety, is highly prevalent among youth worldwide (Polanczyk et al. <xref rid="mpr70064-bib-0035" ref-type="bibr">2015</xref>; Patel et al. <xref rid="mpr70064-bib-0032" ref-type="bibr">2007</xref>). These concerns are frequently reported during early adolescence and tend to peak in late adolescence and early adulthood, with individuals aged 16–24 consistently showing higher rates of poor mental well‐being than any other age group (World Health Organization <xref rid="mpr70064-bib-0046" ref-type="bibr">2021</xref>; Kessler et al. <xref rid="mpr70064-bib-0020" ref-type="bibr">2005</xref>; Gore et al. <xref rid="mpr70064-bib-0016" ref-type="bibr">2011</xref>).</p><p>Among the most troubling signs of adolescent mental distress is deliberate self‐harm (DSH), which may or may not involve suicidal intent (O’Connor and Nock <xref rid="mpr70064-bib-0031" ref-type="bibr">2014</xref>). A common precursor to DSH is suicidal ideation. Approximately 4% of community sample adolescents aged 12–15 years report experiences of suicidal ideation, with prevalence estimates rising to over 15% in mid‐adolescence (Madge et al. <xref rid="mpr70064-bib-0025" ref-type="bibr">2008</xref>; Larsson and Sund <xref rid="mpr70064-bib-0021" ref-type="bibr">2008</xref>). In Norway, around 2% of adolescents reported suicidal ideation within the last 2 weeks (Larsson and Sund <xref rid="mpr70064-bib-0021" ref-type="bibr">2008</xref>). First episodes of DSH are often recorded between the ages of 14 and 16 (Nock <xref rid="mpr70064-bib-0030" ref-type="bibr">2010</xref>; Gillies et al. <xref rid="mpr70064-bib-0015" ref-type="bibr">2018</xref>). Overall, rates and severity of DSH tend to increase throughout this developmental period (Gillies et al. <xref rid="mpr70064-bib-0015" ref-type="bibr">2018</xref>). In Denmark, the highest rates of hospital‐recorded DSH were found among young adults aged 15–24 (Morthorst et al. <xref rid="mpr70064-bib-0027" ref-type="bibr">2024</xref>, <xref rid="mpr70064-bib-0038" ref-type="bibr">2016</xref>). However, the true figures are likely to be higher; for every hospital‐recorded suicide attempt, 2‐ and 6‐fold as many female and male adolescents, respectively, reported suicide attempts without seeking medical attention (Danielsen et al. <xref rid="mpr70064-bib-0010" ref-type="bibr">2024</xref>). Together, these trends underscore the need to intervene.</p><p>Media and digital platforms are increasingly recognized as influential factors in shaping adolescent attitudes, including toward DSH and suicide. Systematic reviews revealed that depictions of suicidal behavior in news reports, entertainment media, and online forums are associated with increased suicide‐related outcomes, particularly among young people (Niederkrotenthaler et al. <xref rid="mpr70064-bib-0028" ref-type="bibr">2020</xref>, <xref rid="mpr70064-bib-0029" ref-type="bibr">2019</xref>; Haw et al. <xref rid="mpr70064-bib-0017" ref-type="bibr">2013</xref>). High‐profile cases, such as the Netflix release of <italic toggle="yes">13 Reasons Why</italic> and peer discussions on unregulated social media platforms (e.g., Reddit, Discord, Snapchat, Instagram, Bluesky), were linked to imitation behavior and increased psychological distress among vulnerable adolescents (Haw et al. <xref rid="mpr70064-bib-0017" ref-type="bibr">2013</xref>; Ayers et al. <xref rid="mpr70064-bib-0002" ref-type="bibr">2017</xref>; Ruder et al. <xref rid="mpr70064-bib-0041" ref-type="bibr">2011</xref>). Furthermore, these platforms often enable continuous exposure to cyberbullying, which can intensify feelings of isolation and distress (Hinduja and Patchin <xref rid="mpr70064-bib-0018" ref-type="bibr">2010</xref>). Given adolescents' developmental susceptibility and the largely unmoderated nature of online content, it is critical that interventions help foster media literacy, promote healthy coping strategies and help‐seeking behavior, and strengthen resilience against harmful digital influences.</p><p>Given nearly 50% of youth who self‐harm form the decision within an hour, that is from ideation to the act itself (Madge et al. <xref rid="mpr70064-bib-0025" ref-type="bibr">2008</xref>; Deisenhammer et al. <xref rid="mpr70064-bib-0011" ref-type="bibr">2009</xref>), it is important that preventive efforts reach adolescents before risk escalates. Systematic reviews have identified several effective strategies within school settings, particularly psychoeducational programs, which improve emotional health literacy, raise awareness of mental health issues, including suicidal behavior, and foster peer support networks (Calear et al. <xref rid="mpr70064-bib-0006" ref-type="bibr">2016</xref>; Robinson et al. <xref rid="mpr70064-bib-0040" ref-type="bibr">2013</xref>; Zalsman et al. <xref rid="mpr70064-bib-0047" ref-type="bibr">2016</xref>; Pistone et al. <xref rid="mpr70064-bib-0034" ref-type="bibr">2019</xref>). Interventions, such as the Good Behavior Game (Wilcox et al. <xref rid="mpr70064-bib-0044" ref-type="bibr">2008</xref>), Signs of Suicide (Aseltine et al. <xref rid="mpr70064-bib-0001" ref-type="bibr">2007</xref>), and Youth Aware of Mental Health (YAM) (D. Wasserman et al. <xref rid="mpr70064-bib-0043" ref-type="bibr">2015</xref>), have demonstrated significant reductions in suicidal ideation and DSH in randomized controlled trials.</p><p>The YAM program was evaluated as part of the SEYLE trial, including 11,110 adolescents across 10 European Union countries. In that study, 2721 adolescents received the YAM intervention, which demonstrated significant reductions in suicidal ideation and DSH at 12‐month follow‐up compared to a control group receiving curriculum as usual and YAM educational posters (D. Wasserman et al. <xref rid="mpr70064-bib-0043" ref-type="bibr">2015</xref>). However, subsequent trials in the U.S. and Australia reported mixed findings (Lindow et al. <xref rid="mpr70064-bib-0023" ref-type="bibr">2020b</xref>; McGillivray et al. <xref rid="mpr70064-bib-0026" ref-type="bibr">2021</xref>), highlighting the need for context‐specific evaluations. YAM targets all adolescents, regardless of individual risk level, and is well‐suited for public school settings where entire age cohorts can be reached. To our knowledge, YAM has not yet been scientifically evaluated in a Nordic school context. This trial therefore aims to address this gap by examining the program's delivery and short‐term effects on 8‐9th‐grade students.</p></sec><sec id="mpr70064-sec-0020"><label>2</label><title>Objectives</title><p>This trial has two aims:<list list-type="bullet"><list-item><p>
+<italic toggle="yes">Aim I:</italic> To investigate the feasibility, acceptability, and fidelity of delivering the YAM program in Danish public schools to 8‐9th‐grade students, assessed by (1) program participation and response rates, (2) adolescent endorsement, and (3) adherence to the intervention manual.</p></list-item><list-item><p>
+<italic toggle="yes">Aim II:</italic> To explore the preliminary effects of the YAM program on self‐reported mental health outcomes at 3‐ and 6‐month follow‐up provided to 8‐9th‐grade students in Danish public schools.</p></list-item></list>
+</p></sec><sec id="mpr70064-sec-0030"><label>3</label><title>Methods</title><sec id="mpr70064-sec-0040"><label>3.1</label><title>Design and Setting</title><p>This study is conducted as a two‐armed, cluster‐randomized feasibility pilot trial evaluating the delivery of the YAM program in 8‐9th‐grade students in Danish public schools. Cluster randomization is performed at the school level. Participating schools are randomly assigned to either receive (a) the YAM program, in addition to their standard curriculum, or (b) the standard curriculum plus YAM educational posters displayed in the classrooms (Figure <xref rid="mpr70064-fig-0001" ref-type="fig">1</xref>). The trial is conducted among students aged 14–16 years in 8–10 public schools across Denmark to ensure geographical and demographic diversity. Data are collected at baseline and at 3‐ and 6‐month of follow‐up. The protocol was preregistered on <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://ClinicalTrials.gov" ext-link-type="uri">ClinicalTrials.gov</ext-link> (ID: <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" ext-link-type="pmc:clinical-trial" xlink:href="NCT06549764">NCT06549764</ext-link>).</p><fig position="float" fig-type="FIGURE" id="mpr70064-fig-0001" orientation="portrait"><label>FIGURE 1</label><caption><p>YAM RCT flowchart.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-1" orientation="portrait" xlink:href="MPR-35-e70064-g001.jpg"><?image-name MPR-35-e70064-g001.jpg?><?image-size 76939?><?image-md5 93e060eea3664f0b263dfd786eb0090a?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 543?><?image-original-width 1064?><?image-scaled-height 362?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7112/12969494/93e060eea366/MPR-35-e70064-g001.jpg?><?thumb-name MPR-35-e70064-g001.gif?><?thumb-size 5169?><?thumb-md5 37cad09a96953ae071621750720967aa?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 156?><?thumb-cloudpmc-urn urn:cdn:blobs/7112/12969494/37cad09a9695/MPR-35-e70064-g001.gif?></graphic></fig></sec><sec id="mpr70064-sec-0050"><label>3.2</label><title>School Recruitment and Eligibility</title><p>Schools are recruited through targeted outreach via municipal Child and Youth Departments and school administration offices, as well as through collaboration with the World Health Organization (WHO)‐led Healthy Cities Network via Local Government Denmark and national networks within education and health. The recruitment strategy is designed to ensure a geographically diverse representation and to maximize participation by public schools whose students are likely to represent general adolescent populations and, thus, improve the external validity (C. Wasserman et al. <xref rid="mpr70064-bib-0042" ref-type="bibr">2012</xref>). Participating schools are asked to designate a contact person to assist with administrative tasks if possible.</p></sec><sec id="mpr70064-sec-0060"><label>3.3</label><title>Enrollment and Consent Procedures</title><p>Although head of the schools decide whether schools would take part in the trial, the final decision regarding participation is formed on an individual level for each student by their parents (Figure <xref rid="mpr70064-fig-0002" ref-type="fig">2</xref>). To adhere to ethical and data protection regulations, both the adolescent and their parents (or legal custodians) must provide informed consent. Once the collaboration with the school is formally established, an information meeting for teachers and parents is scheduled. During this meeting, families can also ask questions in private and confidential settings. Subsequently, parents are asked to provide their initial consent for schools to share their personal contact information with the research team. Participant information and formal digital consent forms are sent to the parents via a secure national digital mailbox system (mit.dk and e‐Boks) in Denmark. Written consent is obtained from both parents/legal custody holders, as required under Danish law. If only one parent has legal custody, their signature alone is sufficient. Once secured, the research team administer study information and formal digital consent forms to the adolescent via mit.dk and e‐Boks. At this stage, class meetings of participating schools are scheduled. Adolescents aged 15 or older are invited to provide written consent after being offered the opportunity to ask questions regarding the project in private.</p><fig position="float" fig-type="FIGURE" id="mpr70064-fig-0002" orientation="portrait"><label>FIGURE 2</label><caption><p>YAM enrollment and consent process.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-3" orientation="portrait" xlink:href="MPR-35-e70064-g003.jpg"><?image-name MPR-35-e70064-g003.jpg?><?image-size 79771?><?image-md5 edf984336fe79d1ad92a3cff69958ec5?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 616?><?image-original-width 1064?><?image-scaled-height 410?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7112/12969494/edf984336fe7/MPR-35-e70064-g003.jpg?><?thumb-name MPR-35-e70064-g003.gif?><?thumb-size 3936?><?thumb-md5 4d3af71910a384ff3c172da512bc5bbc?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 138?><?thumb-cloudpmc-urn urn:cdn:blobs/7112/12969494/4d3af71910a3/MPR-35-e70064-g003.gif?></graphic></fig><p>Once the consent procedure is successfully completed, baseline data is collected electronically or on paper forms if the digital mailbox system is not installed for the adolescent (Figure <xref rid="mpr70064-fig-0003" ref-type="fig">3</xref>). Data handling and storage complies with the European Union's General Data Protection Regulation (GDPR) (European Union <xref rid="mpr70064-bib-0014" ref-type="bibr">2016</xref>).</p><fig position="float" fig-type="FIGURE" id="mpr70064-fig-0003" orientation="portrait"><label>FIGURE 3</label><caption><p>YAM research process.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="anchor" id="jats-graphic-5" orientation="portrait" xlink:href="MPR-35-e70064-g002.jpg"><?image-name MPR-35-e70064-g002.jpg?><?image-size 68925?><?image-md5 416c487c87a767c6cf524fdb8d7873b8?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 464?><?image-original-width 1064?><?image-scaled-height 309?><?image-scaled-width 709?><?image-cloudpmc-urn urn:cdn:blobs/7112/12969494/416c487c87a7/MPR-35-e70064-g002.jpg?><?thumb-name MPR-35-e70064-g002.gif?><?thumb-size 4668?><?thumb-md5 b1a3453367137de649c2b829eabf85c4?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 183?><?thumb-cloudpmc-urn urn:cdn:blobs/7112/12969494/b1a345336713/MPR-35-e70064-g002.gif?></graphic></fig></sec><sec id="mpr70064-sec-0070"><label>3.4</label><title>YAM Versus School Curriculum as Usual</title><p>The YAM program is a manualised, school‐based intervention designed to promote mental health awareness, increase help‐seeking behavior, and reduce risks of DSH and suicide among adolescents. The intervention consists of five sessions, which are delivered during school hours over 3‐to‐5 weeks (Carli et al. <xref rid="mpr70064-bib-0007" ref-type="bibr">2013</xref>). In the first session, students are introduced to core concepts in mental health literacy, including how to seek help for themselves or support a friend in need. Sessions two to four consist of interactive workshops that utilize dilemma cards and role‐playing exercises to explore emotional distress, social conflict, and coping mechanisms, all tailored to the student's preferences and everyday life experiences. In the final session, students are encouraged to reflect and reminded about mental health resources. Adolescents receive a 32‐page booklet, which covers topics such as stress, depression, self‐help, and supporting peers, and lists local community and national resources. Six educational posters are displayed in classrooms throughout the intervention to sustain engagement and promote awareness. Each session is delivered by two trained YAM instructors who are recruited based on previous work experiences with adolescents, preferably in teaching or healthcare. YAM instructors are certified through a 5‐day training seminar provided by the developers, Mental Health in Mind (MHiM). Instructors receive ongoing supervision from a certified child and adolescent psychiatrist and document delivery fidelity through structured logbooks submitted after each session (Carli et al. <xref rid="mpr70064-bib-0007" ref-type="bibr">2013</xref>).</p><p>Adolescents in the control group continue with their standard 8‐9th‐grade school curriculum. Additionally, the same six educational posters used in the intervention group are displayed in control classrooms for 3‐to‐5 weeks to ensure ethical equity.</p></sec><sec id="mpr70064-sec-0080"><label>3.5</label><title>Randomization and Blinding</title><p>Randomization is performed at the school level using a 1:1 allocation ratio. We opted for cluster randomization to prevent contamination between the intervention and control groups, as students often interact across classes within the same school. Given the nature of the intervention, it is not possible to blind either the students or the instructors. Data collectors and database managers are also aware of group assignments; however, the statistical analysis will be performed blinded.</p></sec><sec id="mpr70064-sec-0090"><label>3.6</label><title>Outcome Measures</title><sec id="mpr70064-sec-0100"><label>3.6.1</label><title>Feasibility Outcomes</title><p>Feasibility is assessed by three primary indicators (Table <xref rid="mpr70064-tbl-0001" ref-type="table">1</xref>):<list list-type="order"><list-item><p>Participation rate: the percentage of invited adolescents and parents who provide informed consent.</p></list-item><list-item><p>Program adherence: the percentage of adolescents who attend at least four of the five YAM sessions.</p></list-item><list-item><p>Questionnaire completion: the percentage of adolescents who complete assessments at 3 and 6 months.</p></list-item></list>
+</p><table-wrap position="float" id="mpr70064-tbl-0001" content-type="TABLE" orientation="portrait"><label>TABLE 1</label><caption><p>Outcomes and data collection in the youth aware of mental health (YAM) feasibility trial.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Outcomes</th><th align="center" valign="bottom" rowspan="1" colspan="1">Operational measure/scale</th><th align="center" valign="bottom" rowspan="1" colspan="1">Baseline</th><th style="border-bottom:solid 1px #000000" colspan="2" align="center" valign="bottom" rowspan="1">3 months</th><th align="center" valign="bottom" rowspan="1" colspan="1">6 months</th></tr></thead><tbody valign="top"><tr><td colspan="6" align="left" valign="top" rowspan="1">Feasibility</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Program participation</td><td align="left" valign="top" rowspan="1" colspan="1">Percentage of parents and adolescents consenting to participate</td><td align="center" valign="top" rowspan="1" colspan="1"/><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Course completion</td><td align="left" valign="top" rowspan="1" colspan="1">Percentage of adolescents attending the YAM classes (i.e., four or more of the total sessions)</td><td align="center" valign="top" rowspan="1" colspan="1"/><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Response rates</td><td align="left" valign="top" rowspan="1" colspan="1">Response rates on the questionnaire of participating adolescents</td><td align="center" valign="top" rowspan="1" colspan="1"/><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">Acceptability</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Adolescent endorsement</td><td align="left" valign="top" rowspan="1" colspan="1">YAM questions regarding adolescents' endorsement</td><td align="center" valign="top" rowspan="1" colspan="1"/><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">Fidelity</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Yam intervention</td><td align="left" valign="top" rowspan="1" colspan="1">A checklist of milestones on the delivery plan, which covers all steps from engaging with schools to the end of follow‐up</td><td align="center" valign="top" rowspan="1" colspan="1"/><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">Primary<xref rid="mpr70064-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Level of suicidal behavior</td><td align="left" valign="top" rowspan="1" colspan="1">Paykel's suicidal scale (PSS)</td><td align="center" valign="top" rowspan="1" colspan="1">X</td><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1">X</td></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">Secondary<xref rid="mpr70064-note-0001" ref-type="table-fn">
+<sup>a</sup>
+</xref>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Well‐being index</td><td align="left" valign="top" rowspan="1" colspan="1">WHO well‐being scale (WHO‐5)</td><td align="center" valign="top" rowspan="1" colspan="1">X</td><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1">X</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Depression, anxiety, and stress score</td><td align="left" valign="top" rowspan="1" colspan="1">Depression, anxiety, and stress scale (DASS21)</td><td align="center" valign="top" rowspan="1" colspan="1">X</td><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1">X</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Help‐seeking intentions</td><td align="left" valign="top" rowspan="1" colspan="1">General help‐seeking questionnaire (GHSQ)</td><td align="center" valign="top" rowspan="1" colspan="1">X</td><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1">X</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Psychological distress</td><td align="left" valign="top" rowspan="1" colspan="1">Kessler's psychological distress scale (K10)</td><td align="center" valign="top" rowspan="1" colspan="1">X</td><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1">X</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mental health knowledge and literacy</td><td align="left" valign="top" rowspan="1" colspan="1">YAM‐specific scale</td><td align="center" valign="top" rowspan="1" colspan="1">X</td><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1">X</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Stigma toward suicide</td><td align="left" valign="top" rowspan="1" colspan="1">Stigma of suicide scale (SOSS)</td><td align="center" valign="top" rowspan="1" colspan="1">X</td><td colspan="2" align="center" valign="top" rowspan="1">X</td><td align="center" valign="top" rowspan="1" colspan="1">X</td></tr></tbody></table><table-wrap-foot id="mpr70064-ntgp-0001"><fn id="mpr70064-note-0001"><label>
+<sup>a</sup>
+</label><p>Examined as explorative outcomes.</p></fn></table-wrap-foot></table-wrap><p>In addition to these overall indicators, school‐level variations in participation, adherence, and completion are descriptively assessed to identify potential barriers to engagement and inform future implementation planning.</p></sec><sec id="mpr70064-sec-0110"><label>3.6.2</label><title>Acceptability and Fidelity Outcomes</title><p>Acceptability is assessed through self‐reports at the 3‐month follow‐up, where students enrolled in the YAM intervention indicate which sessions they have attended, that is the opening session, the dilemma card workshop, the role‐play sessions, and the final session. Fidelity is evaluated using a structured checklist assessing whether each planned session, activity, and instructional element is delivered as intended and any deviations from the manual are logged (Bailey et al. <xref rid="mpr70064-bib-0003" ref-type="bibr">2022</xref>). This checklist is completed by instructors and monitored by the research team.</p></sec><sec id="mpr70064-sec-0120"><label>3.6.3</label><title>Exploratory Outcomes</title><p>The primary exploratory outcome is suicidal behavior, which captures both suicidal ideation and self‐harm acts and is measured using the Paykel Suicidal Scale (PSS) (Paykel et al. <xref rid="mpr70064-bib-0033" ref-type="bibr">1974</xref>). Secondary exploratory outcomes include:<list list-type="bullet"><list-item><p>Mental well‐being, measured by the 5‐item WHO‐5 Well‐Being Index (WHO‐5) (Blom et al. <xref rid="mpr70064-bib-0005" ref-type="bibr">2012</xref>)</p></list-item><list-item><p>Depression, anxiety, and stress, measured by the 21‐item short version Depression, Anxiety Stress Scales (DASS‐21) (Lovibond and Lovibond <xref rid="mpr70064-bib-0024" ref-type="bibr">1995</xref>)</p></list-item><list-item><p>Psychological distress, measured by the 10‐item Kessler Psychological Distress Scale (K10) (Kessler et al. <xref rid="mpr70064-bib-0019" ref-type="bibr">2002</xref>)</p></list-item><list-item><p>Help‐seeking intentions, measured by the 9‐item General Help‐Seeking Questionnaire (GHSQ) (Wilson et al. <xref rid="mpr70064-bib-0045" ref-type="bibr">2005</xref>)</p></list-item><list-item><p>Mental health knowledge and literacy, measured by a 26‐item scale, previously developed and applied in YAM evaluations (D. Wasserman et al. <xref rid="mpr70064-bib-0043" ref-type="bibr">2015</xref>; Lindow et al. <xref rid="mpr70064-bib-0023" ref-type="bibr">2020b</xref>; McGillivray et al. <xref rid="mpr70064-bib-0026" ref-type="bibr">2021</xref>)</p></list-item><list-item><p>Stigma related to suicide, measured by the 16‐item Stigma of Suicide Scale (SOSS) (Batterham et al. <xref rid="mpr70064-bib-0004" ref-type="bibr">2013</xref>)</p></list-item></list>
+</p><p>These questionnaires are all validated and previously used in adolescent mental health research. All are administered electronically. Where Danish versions were not already available, questionnaires were translated using a standardized forward‐backwards translation procedure. Translated versions were reviewed linguistically by the research team and pilot‐tested for cultural relevance and comprehensibility among a small group of Danish adolescents before data collection.</p></sec></sec><sec id="mpr70064-sec-0130"><label>3.7</label><title>Sample Size and Power Considerations</title><p>This feasibility pilot trial aims to inform the planning of a future full‐scale trial and is not powered to demonstrate efficacy of the YAM intervention. The trial's primary outcomes are feasibility indicators. Based on previous YAM investigations, we aim at a participation rate of around 28% among invited students, program adherence of around 85%, and response rates of around 67% (Carli et al. <xref rid="mpr70064-bib-0007" ref-type="bibr">2013</xref>; Lindow et al. <xref rid="mpr70064-bib-0022" ref-type="bibr">2020a</xref>). Based on the estimated number of participating schools and classes, we anticipate that 519 students will participate in the trial, with 345 completing the questionnaires.</p></sec><sec id="mpr70064-sec-0140"><label>3.8</label><title>Data Collection and Management</title><p>Data are collected at baseline and at 3‐ and 6‐month of follow‐up. Sociodemographic information (i.e., gender, age, country of birth, nationality, and parental relationship status) is collected at baseline. Adolescents complete the electronic questionnaires during school hours, with members of the research team present and available to answer questions and provide support as needed. Absent students are encouraged to complete the questionnaires via SMS reminders, with an offer of phone consultations. All data are recorded in REDCap, a secure electronic platform approved for research purposes in Denmark (REDCap, <xref rid="mpr70064-bib-0036" ref-type="bibr">2016</xref>), in accordance with GDPR compliance and Danish data protection law, and anonymized before analysis.</p></sec><sec id="mpr70064-sec-0150"><label>3.9</label><title>Statistical Analysis</title><p>Feasibility and acceptability outcomes will be summarized in numbers and percentages, both for the individual schools and the intervention groups in total. The exploratory outcomes will be analyzed using a multi‐level model that includes fixed effects of follow‐up time and the constrained time intervention group and random effects of school, class, and individual participant. Estimated treatment differences with 95% confidence intervals, variance components, and intra‐class correlations will be reported. All enrolled participants will be included in the analysis, regardless of whether they discontinued the study or adhered to the intervention. Numbers and reasons for missing data will be compared between the intervention groups using descriptive tables. Baseline characteristics of adolescents in each intervention group will be compared in descriptive tables. If a chance imbalance occurs between potential predictors of the outcomes, further post hoc exploratory analyses will be conducted while adjusting for their effects.</p></sec><sec id="mpr70064-sec-0160"><label>3.10</label><title>Safety Protocol</title><p>A standardized safety protocol is applied to all participating adolescents regardless of allocation (Table <xref rid="mpr70064-tbl-0002" ref-type="table">2</xref>). Questionnaire responses are monitored through REDCap, where flags mark answers of concern (REDCap, <xref rid="mpr70064-bib-0036" ref-type="bibr">2016</xref>). All flagged responses are reviewed by the project's principal investigator, who has expertise in suicide risk assessment and evaluates the risk of the adolescents on a 1‐to‐4 scale (high to low priority). Adolescents with flagged responses are contacted by telephone by the research team contacts. Parents are contacted as a second step to ensure transparency and support. The research team includes a child and adolescent psychiatrist who is available for subacute and general supervision when needed. During the initial call, the research team conducts a risk assessment and determines whether the adolescent is already receiving care. When deemed necessary, adolescents are referred to school support staff or external professionals in accordance with existing legislation (§154 of the Danish Social Services Act). If a family member is at imminent risk, they are instructed to accompany the adolescent to the emergency department for clinical assessment and treatment. School nurses, educational psychologists, or other student support staff are available at all participating schools if needed, and their contact details are included in the YAM booklet.</p><table-wrap position="float" id="mpr70064-tbl-0002" content-type="TABLE" orientation="portrait"><label>TABLE 2</label><caption><p>Safety procedures based on responses to suicidality and distress measures.</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Paykel's suicidal scale</th><th align="center" valign="bottom" rowspan="1" colspan="1">Actions initiated after the following responses:</th><th align="center" valign="bottom" rowspan="1" colspan="1">Priority 1–4</th><th align="center" valign="bottom" rowspan="1" colspan="1">Safety procedure</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">5‐Item questionnaire, response options: Yes/no</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Have you thought about taking your own life even if you weren't really going to? (item 3)</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">Priority 2</td><td align="left" valign="top" rowspan="1" colspan="1">YAM team member takes contact with adolescent to follow‐up on response and conduct risk assessment and screening</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Have you reached the point where you considered actually taking your own life or you made plans about how you would do it? (item 4)</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">Priority 1</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>(a) Call the adolescent</p>
+<p>(b) Call the parents</p>
+<p>(c) Conduct a risk assessment and screening</p>
+<p>(d) Initiate safety measures</p>
+<p>(e) Notify relevant parts</p>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Have you tried to take your own life? (item 5)</td><td align="center" valign="top" rowspan="1" colspan="1">Yes</td><td align="center" valign="top" rowspan="1" colspan="1">Priority 1</td><td align="left" valign="top" rowspan="1" colspan="1">
+<p>(a) Call the adolescent</p>
+<p>(b) Call the parents</p>
+<p>(c) Conduct a risk assessment and screening</p>
+<p>(d) Initiate safety measures</p>
+<p>(e) Notify relevant parts</p>
+</td></tr></tbody></table><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Kessler's psychological distress scale</th><th align="center" valign="bottom" rowspan="1" colspan="1">Actions initiated after the following responses:</th><th align="center" valign="bottom" rowspan="1" colspan="1">Priority 1–4</th><th align="center" valign="bottom" rowspan="1" colspan="1">Safety procedure</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<p>10‐item likert scale, five response options:</p>
+<p>(1) Not at any point in time</p>
+<p>(2) A bit of the time</p>
+<p>(3) Some of the time</p>
+<p>(4) Most of the time</p>
+<p>(5) All of the time</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">During the past 30 days, how often did you feel depressed? (item 7)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>(4) Most of the time</p>
+<p>(5) All the time</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Priority 3–4</td><td align="left" valign="top" rowspan="1" colspan="1">YAM team member takes contact with adolescent to follow‐up on response and conduct risk assessment and screening</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">During the past 30 days, how often did you feel that everything was an effort? (item 8)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>(4) Most of the time</p>
+<p>(5) All the time</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Priority 3–4</td><td align="left" valign="top" rowspan="1" colspan="1">YAM team member takes contact with adolescent to follow‐up on response and conduct risk assessment and screening</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">During the past 30 days, how often did you feel so sad that nothing could cheer you up? (item 9)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>(4) Most of the time</p>
+<p>(5) All the time</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Priority 3–4</td><td align="left" valign="top" rowspan="1" colspan="1">YAM team member takes contact with adolescent to follow‐up on response and conduct risk assessment and screening</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">During the past 30 days, how often did you feel worthless? (item 10)</td><td align="center" valign="top" rowspan="1" colspan="1">
+<p>(4) Most of the time</p>
+<p>(5) All the time</p>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Priority 3–4</td><td align="left" valign="top" rowspan="1" colspan="1">YAM team member takes contact with adolescent to follow‐up on response and conduct risk assessment and screening</td></tr></tbody></table></table-wrap><p>During the YAM sessions, any adolescent showing signs of distress is attended to by one of the instructors. Instructors are trained to respond to these situations and, when needed, alert the YAM research team, who coordinate with the student support staff. The YAM material lists referral options adapted to each participating school, including local psychologists, social services, and emergency contacts. Referral options are also included on the posters displayed in classrooms and included in the student booklet. The child and adolescent psychiatrist can supervise instructors as needed. Families are briefed on all safety procedures during the parental information meeting, as well as in the participant information material, where it is also stated that they should contact the nearest psychiatric emergency department in case of an acute crisis outside of school hours. Contact information is included in all YAM materials distributed to adolescents and their families.</p></sec></sec><sec id="mpr70064-sec-0170"><label>4</label><title>Results</title><p>This study protocol for a feasibility trial is still ongoing. Recruitment began in August 2024. The intervention was given between November and December 2024, and the 6‐month follow‐up assessment is scheduled to end in July 2025. The study's results are published at a later stage.</p></sec><sec id="mpr70064-sec-0180"><label>5</label><title>Discussion</title><sec id="mpr70064-sec-0190"><label>5.1</label><title>Study Design and Rationale</title><p>This two‐armed, cluster‐randomized feasibility pilot trial evaluates the delivery of the YAM program to 8‐9th‐grade students in Danish public schools, focusing on feasibility, fidelity, acceptability, and participation. The approach aligns with recommendations that a complex intervention targeting vulnerable populations should first be assessed for feasibility to inform whether and how it can be implemented effectively in a real‐world setting (Craig et al. <xref rid="mpr70064-bib-0008" ref-type="bibr">2008</xref>). By collecting data on deliverables, consent procedures, adherence, and adolescent self‐reported outcomes, this trial facilitates the identification of necessary adaptations and supports future planning for implementation.</p><p>The cluster randomization minimizes contamination between intervention and control conditions. This is important, especially in a school‐based trial where adolescents often interact across classes (Carli et al. <xref rid="mpr70064-bib-0007" ref-type="bibr">2013</xref>; Bailey et al. <xref rid="mpr70064-bib-0003" ref-type="bibr">2022</xref>). Furthermore, this allocation format is suitable because the YAM program is delivered to groups with peer interaction as a central component (D. Wasserman et al. <xref rid="mpr70064-bib-0043" ref-type="bibr">2015</xref>). Although blinding of adolescents and facilitators is not feasible, a researcher remains blinded during data analysis. This approach aligns with CONSORT recommendations and helps reduce the risk of confirmation bias in interpreting self‐reported outcomes (Eldridge et al. <xref rid="mpr70064-bib-0013" ref-type="bibr">2016</xref>).</p><p>This trial differs from previous feasibility evaluations of YAM conducted in the U.S. and Australia, which primarily focused on acceptability, mental health literacy, and stigma (Lindow et al. <xref rid="mpr70064-bib-0023" ref-type="bibr">2020b</xref>; McGillivray et al. <xref rid="mpr70064-bib-0026" ref-type="bibr">2021</xref>). In contrast, the current trial incorporates a structured safety protocol, systematic risk monitoring, and a detailed assessment of feasibility indicators, including participation rates, adherence, and fidelity. While YAM materials are typically adapted for local use, this study also incorporates context‐specific elements tailored to the Danish school system. Additionally, the use of a cluster‐randomized design at the school level ensures alignment with the program's universal delivery model.</p></sec><sec id="mpr70064-sec-0200"><label>5.2</label><title>YAM in Denmark</title><p>The Danish YAM intervention adheres to the key principles of structured, school‐based psychoeducational programming. The YAM instructors have relevant qualifications in education or healthcare and complete an intensive 5‐day training seminar provided by MHiM. This seminar ensures that instructors can deliver the program with fidelity and effectively respond to sensitive and emotional issues. Instructors work in pairs, maintain logbook documentation, and receive ongoing supervision, an approach shown to support program fidelity and responsiveness to adolescent needs (Bailey et al. <xref rid="mpr70064-bib-0003" ref-type="bibr">2022</xref>; Lindow et al. <xref rid="mpr70064-bib-0022" ref-type="bibr">2020a</xref>). Additionally, the flexible delivery window of 3‐to‐5 weeks allows schools to tailor schedules to their local logistics, increasing the feasibility of integrating YAM into the standard curriculum. Program adaptability has been identified as a key factor in the successful delivery of complex school environments, provided that core components remain intact (Domitrovich et al. <xref rid="mpr70064-bib-0012" ref-type="bibr">2010</xref>).</p><p>By embedding the program within public schools, the trial tests a low‐threshold intervention strategy, which can be scaled up cost‐effectively if proven feasible. Results from previous trials conducted in other cultural settings were mixed and underscored the need for feasibility evaluation prior to national implementation (D. Wasserman et al. <xref rid="mpr70064-bib-0043" ref-type="bibr">2015</xref>; Lindow et al. <xref rid="mpr70064-bib-0023" ref-type="bibr">2020b</xref>; McGillivray et al. <xref rid="mpr70064-bib-0026" ref-type="bibr">2021</xref>). Further, a systematic review and meta‐analysis on youth suicide prevention emphasized that universal school‐based programs should undergo context‐sensitive assessment of feasibility, fidelity, and population fit to ensure reliable evaluation of their effectiveness (Robinson et al. <xref rid="mpr70064-bib-0039" ref-type="bibr">2018</xref>).</p></sec><sec id="mpr70064-sec-0210"><label>5.3</label><title>Outcome and Safety Measures</title><p>In line with best practices for feasibility research, this trial prioritizes exploratory outcomes that capture key dimensions of adolescent mental health. Suicidal behavior, particularly suicidal ideation, was chosen as a key outcome due to its well‐documented association with later suicide attempts (O’Connor and Nock <xref rid="mpr70064-bib-0031" ref-type="bibr">2014</xref>; Reeves et al. <xref rid="mpr70064-bib-0037" ref-type="bibr">2022</xref>). Its often fluctuating nature, in severity, duration, and recurrence, underscores the importance of repeated measurement, which this trial addresses by including follow‐up assessments at 3 and 6 months. This approach enables a more nuanced understanding of short‐term changes and facilitates the identification of early intervention needs. The selection of the studied outcomes was guided by relevance to adolescent mental health and prior use in similar trials, ensuring transparency and consistency with established measures (Robinson et al. <xref rid="mpr70064-bib-0039" ref-type="bibr">2018</xref>). By incorporating these principles, the current trial aims to establish a methodologically sound foundation for informing outcome prioritization and power calculations in the event of a future full‐scale effectiveness trial.</p><p>This trial integrates a structured safety protocol to ensure ethical responsibility. Risk screening is conducted by the project's principal investigator and trained research assistants, who have expertise in suicide prevention. Adolescents identified as being at risk are contacted directly by the research team, with additional support provided in collaboration with a senior consultant from the Danish helpline for suicide prevention. Materials are adapted to include local crisis contacts and encourage help‐seeking through posters and student booklets. Together, these measures demonstrate that universal school‐based programs can be delivered with ethically grounded, proactive safeguards that promote adolescent psychological safety and meet established standards for suicide prevention research (Madge et al. <xref rid="mpr70064-bib-0025" ref-type="bibr">2008</xref>; Deisenhammer et al. <xref rid="mpr70064-bib-0011" ref-type="bibr">2009</xref>; Robinson et al. <xref rid="mpr70064-bib-0039" ref-type="bibr">2018</xref>).</p></sec><sec id="mpr70064-sec-0220"><label>5.4</label><title>Strengths and Limitations</title><p>This trial has strengths. The school‐level cluster‐randomized design mirrors the way universal interventions like YAM are typically implemented in educational settings, making it an appropriate and pragmatic choice (D. Wasserman et al. <xref rid="mpr70064-bib-0043" ref-type="bibr">2015</xref>). The trial draws on local infrastructure and aligns with existing educational and health systems by involving school nurses, educational psychologists, or other student support staff in logistical coordination, adaptation, and safety monitoring (Damschroder et al. <xref rid="mpr70064-bib-0009" ref-type="bibr">2022</xref>). Notably, the structured fidelity monitoring process and use of safety protocols for risk screening, referral, and follow‐up ensures responsible delivery and safeguarding of participating adolescents (Robinson et al. <xref rid="mpr70064-bib-0039" ref-type="bibr">2018</xref>).</p><p>Limitations should be acknowledged. The trial is not powered to detect clinically relevant differences in efficacy outcome However, anticipated participation rates suggest the study may provide tendencies or directions regarding a potential effect. Additionally, although the trial includes diverse public schools across several Danish regions, excluding private schools may limit the generalizability of the findings. Furthermore, the relatively small number of participating schools limits the generalizability of school‐level feasibility findings. This is due to practical constraints, including limited instructor capacity, as no previous Danish instructors have been certified, budget constraints, and the study's fixed timeframe. Self‐selection bias is another potential limitation, as adolescents or families with a particular interest in mental health may be more likely to participate (Madge et al. <xref rid="mpr70064-bib-0025" ref-type="bibr">2008</xref>). The lack of blinding of participants, instructors, and data collectors may introduce reporting biases albeit a blinded researcher conducts the statistical analyses. Finally, the self‐report outcome measures may be susceptible to underreporting or social desirability bias, especially concerning sensitive issues like suicide or self‐harm (Gillies et al. <xref rid="mpr70064-bib-0015" ref-type="bibr">2018</xref>).</p></sec></sec><sec id="mpr70064-sec-0230"><label>6</label><title>Conclusion and Future Directions</title><p>This feasibility pilot trial provides information regarding the delivery, safety, and acceptability of the YAM program for 8‐9th‐grade students in Danish public schools. By assessing feasibility indicators, such as participation, fidelity, and completion, and also exploring changes in key self‐reported mental health outcomes, the study will inform recruitment strategies, refine procedures for fidelity monitoring, and support the selection and timing of outcome assessments in future trials. Additionally, by examining delivery processes and contextual factors in real‐world school settings, we will collect insights to inform the design and implementation of a full‐scale effectiveness trial. Findings from this first Nordic feasibility evaluation of YAM may help identify necessary adaptations and guide next steps toward evaluating the program's potential within broader school‐based mental health strategies.</p></sec><sec id="mpr70064-sec-0240"><title>Author Contributions</title><p>
+<bold>Lasse K. Harris:</bold> writing – original draft, visualization, project administration. <bold>Michella Heinrichsen:</bold> writing – review and editing, project administration, investigation. <bold>Marie Petri:</bold> writing – review and editing, project administration, investigation, visualization, resources. <bold>Hanne Elberling:</bold> writing – review and editing, supervision. <bold>Julie L. Forman:</bold> writing – review and editing, formal analysis. <bold>Merete Nordentoft:</bold> conceptualization, methodology, funding acquisition, writing – review and editing, supervision. <bold>Annette Erlangsen:</bold> conceptualization, methodology, supervision, writing – review and editing, funding acquisition. <bold>Britt R. Morthorst:</bold> conceptualization, methodology, supervision, writing – review and editing, funding acquisition, investigation, visualization, project administration.</p></sec><sec id="mpr70064-sec-0260"><title>Funding</title><p>The Novo Nordisk Foundation (NNF23SA0083854) funds the YAM feasibility trial in Denmark.</p></sec><sec id="mpr70064-sec-0270"><title>Ethics Statement</title><p>This trial adheres to the principles outlined in the Declaration of Helsinki. The data collection was approved by the Regional Danish Data Protection Agency (P‐2023–14866). The study protocol was approved by the Regional Committee on Health Research Ethics (H‐24000117, amendment 115729). According to the National Committee on Health Research Ethics guidance, written informed consent is collected from legal guardians and participating adolescents.</p></sec><sec sec-type="COI-statement" id="mpr70064-sec-0280"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></sec></body><back><ack id="mpr70064-sec-0250"><title>Acknowledgments</title><p>The authors wish to thank the participating schools, teachers, parents, and adolescents for their invaluable collaboration and commitment to the YAM feasibility trial. They also share their thanks with the YAM instructors for their professionalism, empathy, and dedication throughout the training and delivery of the program. Special thanks to MHiM for their guidance and support in training and preparing the instructors. Finally, thanks to Ove Munch Ovesen, a senior consultant with 25 years of experience at the Danish helpline, who provides additional support and care for adolescents and families.</p></ack><sec sec-type="data-availability" id="mpr70064-sec-0300"><title>Data Availability Statement</title><p>Data sharing not applicable to this article as no datasets were generated or analyzed during the current study.</p></sec><ref-list content-type="cited-references" id="mpr70064-bibl-0001"><title>References</title><ref id="mpr70064-bib-0001"><mixed-citation publication-type="journal" id="mpr70064-cit-0001">
+<string-name name-style="western">
+<surname>Aseltine</surname>, <given-names>R. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>James</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. A.</given-names>
+<surname>Schilling</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Glanovsky</surname>
+</string-name>. <year>2007</year>. “<article-title>Evaluating the SOS Suicide Prevention Program: A Replication and Extension</article-title>.” <source>BMC Public Health</source>
+<volume>7</volume>: <fpage>1</fpage>–<lpage>7</lpage>. <pub-id pub-id-type="doi">10.1186/1471-2458-7-161</pub-id>.<pub-id pub-id-type="pmid">17640366</pub-id>
+<pub-id pub-id-type="pmcid">PMC1941734</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0002"><mixed-citation publication-type="journal" id="mpr70064-cit-0002">
+<string-name name-style="western">
+<surname>Ayers</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B. M.</given-names>
+<surname>Althouse</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E. C.</given-names>
+<surname>Leas</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Dredze</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J. P.</given-names>
+<surname>Allem</surname>
+</string-name>. <year>2017</year>. “<article-title>Internet Searches for Suicide Following the Release of 13 Reasons Why</article-title>.” <source>JAMA Internal Medicine</source>
+<volume>177</volume>, no. <issue>10</issue>: <elocation-id>1527</elocation-id>. <pub-id pub-id-type="doi">10.1001/JAMAINTERNMED.2017.3333</pub-id>.<pub-id pub-id-type="pmid">28759671</pub-id>
+<pub-id pub-id-type="pmcid">PMC5820689</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0003"><mixed-citation publication-type="journal" id="mpr70064-cit-0003">
+<string-name name-style="western">
+<surname>Bailey</surname>, <given-names>S. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Oosterhoff</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. C.</given-names>
+<surname>Lindow</surname>
+</string-name>, <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Robecker</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Bryan</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Byerly</surname>
+</string-name>. <year>2022</year>. “<article-title>Feasibility, Acceptability, and Fidelity: Extension Agents Teaching Youth Aware of Mental Health</article-title>.” <source>Journal of Rural Mental Health</source>
+<volume>46</volume>, no. <issue>2</issue>: <fpage>88</fpage>–<lpage>99</lpage>. <pub-id pub-id-type="doi">10.1037/rmh0000170</pub-id>.</mixed-citation></ref><ref id="mpr70064-bib-0004"><mixed-citation publication-type="journal" id="mpr70064-cit-0004">
+<string-name name-style="western">
+<surname>Batterham</surname>, <given-names>P. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Calear</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Christensen</surname>
+</string-name>. <year>2013</year>. “<article-title>The Stigma of Suicide Scale. Psychometric Properties and Correlates of the Stigma of Suicide</article-title>.” <source>Crisis</source>
+<volume>34</volume>, no. <issue>1</issue>: <fpage>13</fpage>–<lpage>21</lpage>. <pub-id pub-id-type="doi">10.1027/0227-5910/A000156</pub-id>.<pub-id pub-id-type="pmid">22846447</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0005"><mixed-citation publication-type="journal" id="mpr70064-cit-0005">
+<string-name name-style="western">
+<surname>Blom</surname>, <given-names>E. H.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Bech</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Högberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. O.</given-names>
+<surname>Larsson</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Serlachius</surname>
+</string-name>. <year>2012</year>. “<article-title>Screening for Depressed Mood in an Adolescent Psychiatric Context by Brief Self‐Assessment Scales ‐ Testing Psychometric Validity of WHO‐5 and BDI‐6 Indices by Latent Trait Analyses</article-title>.” <source>Health and Quality of Life Outcomes</source>
+<volume>10</volume>. <pub-id pub-id-type="doi">10.1186/1477-7525-10-149</pub-id>.<pub-id pub-id-type="pmcid">PMC3575311</pub-id><pub-id pub-id-type="pmid">23227908</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0006"><mixed-citation publication-type="journal" id="mpr70064-cit-0006">
+<string-name name-style="western">
+<surname>Calear</surname>, <given-names>A. L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Christensen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Freeman</surname>
+</string-name>, et al. <year>2016</year>. “<article-title>A Systematic Review of Psychosocial Suicide Prevention Interventions for Youth</article-title>.” <source>European Child &amp; Adolescent Psychiatry</source>
+<volume>25</volume>, no. <issue>5</issue>: <fpage>467</fpage>–<lpage>482</lpage>. <pub-id pub-id-type="doi">10.1007/S00787-015-0783-4</pub-id>.<pub-id pub-id-type="pmid">26472117</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0007"><mixed-citation publication-type="journal" id="mpr70064-cit-0007">
+<string-name name-style="western">
+<surname>Carli</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wasserman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wasserman</surname>
+</string-name>, et al. <year>2013</year>. “<article-title>The Saving and Empowering Young Lives in Europe (SEYLE) Randomized Controlled Trial (RCT): Methodological Issues and Participant Characteristics</article-title>.” <source>BMC Public Health</source>
+<volume>13</volume>: <fpage>1</fpage>–<lpage>14</lpage>. <pub-id pub-id-type="doi">10.1186/1471-2458-13-479</pub-id>.<pub-id pub-id-type="pmid">23679917</pub-id>
+<pub-id pub-id-type="pmcid">PMC3665603</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0008"><mixed-citation publication-type="journal" id="mpr70064-cit-0008">
+<string-name name-style="western">
+<surname>Craig</surname>, <given-names>P.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Dieppe</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Macintyre</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Mitchie</surname>
+</string-name>, <string-name name-style="western">
+<given-names>I.</given-names>
+<surname>Nazareth</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Petticrew</surname>
+</string-name>. <year>2008</year>. “<article-title>Developing and Evaluating Complex Interventions: The New Medical Research Council Guidance</article-title>.” <source>BMJ</source>
+<volume>337</volume>: <fpage>979</fpage>–<lpage>983</lpage>. <pub-id pub-id-type="doi">10.1136/BMJ.A1655</pub-id>.<pub-id pub-id-type="pmcid">PMC2769032</pub-id><pub-id pub-id-type="pmid">18824488</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0009"><mixed-citation publication-type="journal" id="mpr70064-cit-0009">
+<string-name name-style="western">
+<surname>Damschroder</surname>, <given-names>L. J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. M.</given-names>
+<surname>Reardon</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. A. O.</given-names>
+<surname>Widerquist</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Lowery</surname>
+</string-name>. <year>2022</year>. “<article-title>The Updated Consolidated Framework for Implementation Research Based on User Feedback</article-title>.” <source>Implementation Science</source>
+<volume>17</volume>, no. <issue>1</issue>: <elocation-id>75</elocation-id>. <pub-id pub-id-type="doi">10.1186/s13012-022-01245-0</pub-id>.<pub-id pub-id-type="pmid">36309746</pub-id>
+<pub-id pub-id-type="pmcid">PMC9617234</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0010"><mixed-citation publication-type="journal" id="mpr70064-cit-0010">
+<string-name name-style="western">
+<surname>Danielsen</surname>, <given-names>S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Strandberg‐Larsen</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hawton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nordentoft</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Erlangsen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>T.</given-names>
+<surname>Madsen</surname>
+</string-name>. <year>2024</year>. “<article-title>The Iceberg Model of Suicidal Ideation and Behaviour in Danish Adolescents: Integration of National Registry and Self‐Reported Data Within a National Birth Cohort</article-title>.” <source>European Child &amp; Adolescent Psychiatry</source>
+<volume>34</volume>, no. <issue>2</issue>: <fpage>611</fpage>–<lpage>621</lpage>. <pub-id pub-id-type="doi">10.1007/s00787-024-02503-w</pub-id>.<pub-id pub-id-type="pmid">38916768</pub-id>
+<pub-id pub-id-type="pmcid">PMC11868210</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0011"><mixed-citation publication-type="journal" id="mpr70064-cit-0011">
+<string-name name-style="western">
+<surname>Deisenhammer</surname>, <given-names>E. A.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C.‐M.</given-names>
+<surname>Ing</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Strauss</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Kemmler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Hinterhuber</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. M.</given-names>
+<surname>Weiss</surname>
+</string-name>. <year>2009</year>. “<article-title>The Duration of the Suicidal Process: How Much Time is Left for Intervention Between Consideration and Accomplishment of a Suicide Attempt?</article-title>” <source>Journal of Clinical Psychiatry</source>
+<volume>70</volume>, no. <issue>1</issue>: <fpage>19</fpage>–<lpage>24</lpage>. <pub-id pub-id-type="doi">10.4088/jcp.07m03904</pub-id>.<pub-id pub-id-type="pmid">19026258</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0012"><mixed-citation publication-type="journal" id="mpr70064-cit-0012">
+<string-name name-style="western">
+<surname>Domitrovich</surname>, <given-names>C. E.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. P.</given-names>
+<surname>Bradshaw</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. T.</given-names>
+<surname>Greenberg</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Embry</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. M.</given-names>
+<surname>Poduska</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N. S.</given-names>
+<surname>Ialongo</surname>
+</string-name>. <year>2010</year>. “<article-title>Integrated Models of School‐Based Prevention: Logic and Theory</article-title>.” <source>Psychology in the Schools</source>
+<volume>47</volume>, no. <issue>1</issue>: <fpage>71</fpage>–<lpage>88</lpage>. <pub-id pub-id-type="doi">10.1002/PITS.20452</pub-id>.<pub-id pub-id-type="pmid">27182089</pub-id>
+<pub-id pub-id-type="pmcid">PMC4865396</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0013"><mixed-citation publication-type="journal" id="mpr70064-cit-0013">
+<string-name name-style="western">
+<surname>Eldridge</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. L.</given-names>
+<surname>Chan</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Campbell</surname>
+</string-name>, et al. <year>2016</year>. “<article-title>CONSORT 2010 Statement: Extension to Randomised Pilot and Feasibility Trials</article-title>.” <source>BMJ</source>
+<volume>355</volume>: <elocation-id>i5239</elocation-id>. <pub-id pub-id-type="doi">10.1136/BMJ.I5239</pub-id>.<pub-id pub-id-type="pmid">27777223</pub-id>
+<pub-id pub-id-type="pmcid">PMC5076380</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0014"><mixed-citation publication-type="journal" id="mpr70064-cit-0014">
+<collab collab-type="authors">European Union</collab>
+. <year>2016</year>. “<article-title>Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the Protection of Natural Persons With Regard to the Processing of Personal Data and on the Free Movement of Such Data (General Data Protection Regulation)</article-title>.” <source>Official Journal of the European Union</source>
+<volume>L119</volume>: <fpage>1</fpage>–<lpage>88</lpage>. Accessed April 7, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://eur-lex.europa.eu/eli/reg/2016/679/oj" ext-link-type="uri">https://eur‐lex.europa.eu/eli/reg/2016/679/oj</ext-link>.</mixed-citation></ref><ref id="mpr70064-bib-0015"><mixed-citation publication-type="journal" id="mpr70064-cit-0015">
+<string-name name-style="western">
+<surname>Gillies</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M. A.</given-names>
+<surname>Christou</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. C.</given-names>
+<surname>Dixon</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>Prevalence and Characteristics of Self‐Harm in Adolescents: Meta‐Analyses of Community‐Based Studies 1990‐2015</article-title>.” <source>Journal of the American Academy of Child &amp; Adolescent Psychiatry</source>
+<volume>57</volume>, no. <issue>10</issue>: <fpage>733</fpage>–<lpage>741</lpage>. <pub-id pub-id-type="doi">10.1016/J.JAAC.2018.06.018</pub-id>.<pub-id pub-id-type="pmid">30274648</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0016"><mixed-citation publication-type="journal" id="mpr70064-cit-0016">
+<string-name name-style="western">
+<surname>Gore</surname>, <given-names>F. M.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P. J. N.</given-names>
+<surname>Bloem</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G. C.</given-names>
+<surname>Patton</surname>
+</string-name>, et al. <year>2011</year>. “<article-title>Global Burden of Disease in Young People Aged 10‐24 Years: A Systematic Analysis</article-title>.” <source>Lancet</source>
+<volume>377</volume>, no. <issue>9783</issue>: <fpage>2093</fpage>–<lpage>2102</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(11)60512-6</pub-id>.<pub-id pub-id-type="pmid">21652063</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0017"><mixed-citation publication-type="journal" id="mpr70064-cit-0017">
+<string-name name-style="western">
+<surname>Haw</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hawton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Niedzwiedz</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Platt</surname>
+</string-name>. <year>2013</year>. “<article-title>Suicide Clusters: A Review of Risk Factors and Mechanisms</article-title>.” <source>Suicide and Life‐Threatening Behavior</source>
+<volume>43</volume>, no. <issue>1</issue>: <fpage>97</fpage>–<lpage>108</lpage>. <pub-id pub-id-type="doi">10.1111/J.1943-278X.2012.00130.X</pub-id>.<pub-id pub-id-type="pmid">23356785</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0018"><mixed-citation publication-type="journal" id="mpr70064-cit-0018">
+<string-name name-style="western">
+<surname>Hinduja</surname>, <given-names>S.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>J. W.</given-names>
+<surname>Patchin</surname>
+</string-name>. <year>2010</year>. “<article-title>Bullying, Cyberbullying, and Suicide</article-title>.” <source>Archives of Suicide Research</source>
+<volume>14</volume>, no. <issue>3</issue>: <fpage>206</fpage>–<lpage>221</lpage>. <pub-id pub-id-type="doi">10.1080/13811118.2010.494133</pub-id>.<pub-id pub-id-type="pmid">20658375</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0019"><mixed-citation publication-type="journal" id="mpr70064-cit-0019">
+<string-name name-style="western">
+<surname>Kessler</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Andrews</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. J.</given-names>
+<surname>Colpe</surname>
+</string-name>, et al. <year>2002</year>. “<article-title>Short Screening Scales to Monitor Population Prevalences and Trends in Non‐Specific Psychological Distress</article-title>.” <source>Psychological Medicine</source>
+<volume>32</volume>, no. <issue>6</issue>: <fpage>959</fpage>–<lpage>976</lpage>. <pub-id pub-id-type="doi">10.1017/S0033291702006074</pub-id>.<pub-id pub-id-type="pmid">12214795</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0020"><mixed-citation publication-type="journal" id="mpr70064-cit-0020">
+<string-name name-style="western">
+<surname>Kessler</surname>, <given-names>R. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>Berglund</surname>
+</string-name>, <string-name name-style="western">
+<given-names>O.</given-names>
+<surname>Demler</surname>
+</string-name>, <string-name name-style="western">
+<given-names>R.</given-names>
+<surname>Jin</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K. R.</given-names>
+<surname>Merikangas</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>E. E.</given-names>
+<surname>Walters</surname>
+</string-name>. <year>2005</year>. “<article-title>Lifetime Prevalence and Age‐of‐Onset Distributions of DSM‐IV Disorders in the National Comorbidity Survey Replication</article-title>.” <source>Archives of General Psychiatry</source>
+<volume>62</volume>, no. <issue>6</issue>: <fpage>593</fpage>–<lpage>602</lpage>. <pub-id pub-id-type="doi">10.1001/ARCHPSYC.62.6.593</pub-id>.<pub-id pub-id-type="pmid">15939837</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0021"><mixed-citation publication-type="journal" id="mpr70064-cit-0021">
+<string-name name-style="western">
+<surname>Larsson</surname>, <given-names>B.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>A. M.</given-names>
+<surname>Sund</surname>
+</string-name>. <year>2008</year>. “<article-title>Prevalence, Course, Incidence, and 1‐Year Prediction of Deliberate Self‐Harm and Suicide Attempts in Early Norwegian School Adolescents</article-title>.” <source>Suicide and Life‐Threatening Behavior</source>
+<volume>38</volume>, no. <issue>2</issue>: <fpage>152</fpage>–<lpage>165</lpage>. <pub-id pub-id-type="doi">10.1521/SULI.2008.38.2.152</pub-id>.<pub-id pub-id-type="pmid">18444774</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0022"><mixed-citation publication-type="journal" id="mpr70064-cit-0022">
+<string-name name-style="western">
+<surname>Lindow</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Hughes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>South</surname>
+</string-name>, et al. <year>2020a</year>. “<article-title>Feasibility and Acceptability of the Youth Aware of Mental Health (YAM) Intervention in US Adolescents</article-title>.” <source>Archives of Suicide Research</source>
+<volume>24</volume>, no. <issue>2</issue>: <fpage>269</fpage>–<lpage>284</lpage>. <pub-id pub-id-type="doi">10.1080/13811118.2019.1624667</pub-id>.<pub-id pub-id-type="pmid">31159674</pub-id>
+<pub-id pub-id-type="pmcid">PMC6942243</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0023"><mixed-citation publication-type="journal" id="mpr70064-cit-0023">
+<string-name name-style="western">
+<surname>Lindow</surname>, <given-names>J. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. L.</given-names>
+<surname>Hughes</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>South</surname>
+</string-name>, et al. <year>2020b</year>. “<article-title>The Youth Aware of Mental Health Intervention: Impact on Help Seeking, Mental Health Knowledge, and Stigma in U.S. Adolescents</article-title>.” <source>Journal of Adolescent Health</source>
+<volume>67</volume>, no. <issue>1</issue>: <fpage>101</fpage>–<lpage>107</lpage>. <pub-id pub-id-type="doi">10.1016/j.jadohealth.2020.01.006</pub-id>.<pub-id pub-id-type="pmcid">PMC7311230</pub-id><pub-id pub-id-type="pmid">32115325</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0024"><mixed-citation publication-type="journal" id="mpr70064-cit-0024">
+<string-name name-style="western">
+<surname>Lovibond</surname>, <given-names>P. F.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>S. H.</given-names>
+<surname>Lovibond</surname>
+</string-name>. <year>1995</year>. “<article-title>The Structure of Negative Emotional States: Comparison of the Depression Anxiety Stress Scales (DASS) With the Beck Depression and Anxiety Inventories</article-title>.” <source>Behaviour Research and Therapy</source>
+<volume>33</volume>, no. <issue>3</issue>: <fpage>335</fpage>–<lpage>343</lpage>. <pub-id pub-id-type="doi">10.1016/0005-7967(94)00075-U</pub-id>.<pub-id pub-id-type="pmid">7726811</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0025"><mixed-citation publication-type="journal" id="mpr70064-cit-0025">
+<string-name name-style="western">
+<surname>Madge</surname>, <given-names>N.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Hewitt</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hawton</surname>
+</string-name>, et al. <year>2008</year>. “<article-title>Deliberate Self‐Harm Within an International Community Sample of Young People: Comparative Findings From the Child &amp; Adolescent Self‐Harm in Europe (CASE) Study</article-title>.” <source>Journal of Child Psychology and Psychiatry</source>
+<volume>49</volume>, no. <issue>6</issue>: <fpage>667</fpage>–<lpage>677</lpage>. <pub-id pub-id-type="doi">10.1111/J.1469-7610.2008.01879.X</pub-id>.<pub-id pub-id-type="pmid">18341543</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0026"><mixed-citation publication-type="journal" id="mpr70064-cit-0026">
+<string-name name-style="western">
+<surname>McGillivray</surname>, <given-names>L.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Shand</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A. L.</given-names>
+<surname>Calear</surname>
+</string-name>, et al. <year>2021</year>. “<article-title>The Youth Aware of Mental Health Program in Australian Secondary Schools: 3‐ and 6‐Month Outcomes</article-title>.” <source>International Journal of Mental Health Systems</source>
+<volume>15</volume>, no. <issue>1</issue>: <elocation-id>79</elocation-id>. <pub-id pub-id-type="doi">10.1186/s13033-021-00503-w</pub-id>.<pub-id pub-id-type="pmid">34674726</pub-id>
+<pub-id pub-id-type="pmcid">PMC8529373</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0027"><mixed-citation publication-type="journal" id="mpr70064-cit-0027">
+<string-name name-style="western">
+<surname>Morthorst</surname>, <given-names>B. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Heinrichsen</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Erlangsen</surname>
+</string-name>. <year>2024</year>. “<article-title>Joinpoint Analyses of Rates on Hospital‐Recorded Deliberate Self‐Harm: An Update on Danish National Trends</article-title>.” <source>Social Psychiatry and Psychiatric Epidemiology</source>
+<volume>60</volume>, no. <issue>3</issue>: <fpage>727</fpage>–<lpage>736</lpage>. <pub-id pub-id-type="doi">10.1007/s00127-024-02795-y</pub-id>.<pub-id pub-id-type="pmid">39527275</pub-id>
+<pub-id pub-id-type="pmcid">PMC11870884</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0038"><mixed-citation publication-type="journal" id="mpr70064-cit-0038">
+<string-name name-style="western">
+<surname>Morthorst</surname>, <given-names>B. R.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Soegaard</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Nordentoft</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Erlangsen</surname>
+</string-name>. <year>2016</year>. “<article-title>Incidence Rates of Deliberate Self‐Harm in Denmark 1994‐2011</article-title>.” <source>Crisis</source>
+<volume>37</volume>, no. <issue>4</issue>: <fpage>256</fpage>–<lpage>264</lpage>. <pub-id pub-id-type="doi">10.1027/0227-5910/A000391</pub-id>.<pub-id pub-id-type="pmid">27278571</pub-id>
+<pub-id pub-id-type="pmcid">PMC5137321</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0028"><mixed-citation publication-type="journal" id="mpr70064-cit-0028">
+<string-name name-style="western">
+<surname>Niederkrotenthaler</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Braun</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Pirkis</surname>
+</string-name>, et al. <year>2020</year>. “<article-title>Association Between Suicide Reporting in the Media and Suicide: Systematic Review and Meta‐Analysis</article-title>.” <source>BMJ</source>
+<volume>368</volume>: <elocation-id>m575</elocation-id>. <pub-id pub-id-type="doi">10.1136/BMJ.M575</pub-id>.<pub-id pub-id-type="pmid">32188637</pub-id>
+<pub-id pub-id-type="pmcid">PMC7190013</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0029"><mixed-citation publication-type="journal" id="mpr70064-cit-0029">
+<string-name name-style="western">
+<surname>Niederkrotenthaler</surname>, <given-names>T.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Stack</surname>
+</string-name>, <string-name name-style="western">
+<given-names>B.</given-names>
+<surname>Till</surname>
+</string-name>, et al. <year>2019</year>. “<article-title>Association of Increased Youth Suicides in the United States With the Release of 13 Reasons Why</article-title>.” <source>JAMA Psychiatry</source>
+<volume>76</volume>, no. <issue>9</issue>: <fpage>933</fpage>–<lpage>940</lpage>. <pub-id pub-id-type="doi">10.1001/JAMAPSYCHIATRY.2019.0922</pub-id>.<pub-id pub-id-type="pmid">31141094</pub-id>
+<pub-id pub-id-type="pmcid">PMC6547137</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0030"><mixed-citation publication-type="journal" id="mpr70064-cit-0030">
+<string-name name-style="western">
+<surname>Nock</surname>, <given-names>M. K.</given-names>
+</string-name>
+<year>2010</year>. “<article-title>Self‐Injury</article-title>.” <source>Annual Review of Clinical Psychology</source>
+<volume>6</volume>, no. <issue>1</issue>: <fpage>339</fpage>–<lpage>363</lpage>. <pub-id pub-id-type="doi">10.1146/ANNUREV.CLINPSY.121208.131258</pub-id>.<pub-id pub-id-type="pmid">20192787</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0031"><mixed-citation publication-type="journal" id="mpr70064-cit-0031">
+<string-name name-style="western">
+<surname>O’Connor</surname>, <given-names>R. C.</given-names>
+</string-name>, and <string-name name-style="western">
+<given-names>M. K.</given-names>
+<surname>Nock</surname>
+</string-name>. <year>2014</year>. “<article-title>The Psychology of Suicidal Behaviour</article-title>.” <source>Lancet Psychiatry</source>
+<volume>1</volume>: <fpage>73</fpage>–<lpage>85</lpage>. <pub-id pub-id-type="doi">10.1016/s2215-0366(14)70222-6</pub-id>.<pub-id pub-id-type="pmid">26360404</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0032"><mixed-citation publication-type="journal" id="mpr70064-cit-0032">
+<string-name name-style="western">
+<surname>Patel</surname>, <given-names>V.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>A. J.</given-names>
+<surname>Flisher</surname>
+</string-name>, <string-name name-style="western">
+<given-names>S.</given-names>
+<surname>Hetrick</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>P.</given-names>
+<surname>McGorry</surname>
+</string-name>. <year>2007</year>. “<article-title>Mental Health of Young People: A Global Public‐Health Challenge</article-title>.” <source>Lancet</source>
+<volume>369</volume>, no. <issue>9569</issue>: <fpage>1302</fpage>–<lpage>1313</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(07)60368-7</pub-id>.<pub-id pub-id-type="pmid">17434406</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0033"><mixed-citation publication-type="journal" id="mpr70064-cit-0033">
+<string-name name-style="western">
+<surname>Paykel</surname>, <given-names>E. S.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>J. K.</given-names>
+<surname>Myers</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J. J.</given-names>
+<surname>Lindenthal</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Tanner</surname>
+</string-name>. <year>1974</year>. “<article-title>Suicidal Feelings in the General Population: A Prevalence Study</article-title>.” <source>British Journal of Psychiatry</source>
+<volume>124</volume>, no. <issue>582</issue>: <fpage>460</fpage>–<lpage>469</lpage>. <pub-id pub-id-type="doi">10.1192/bjp.124.5.460</pub-id>.<pub-id pub-id-type="pmid">4836376</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0034"><mixed-citation publication-type="journal" id="mpr70064-cit-0034">
+<string-name name-style="western">
+<surname>Pistone</surname>, <given-names>I.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>U.</given-names>
+<surname>Beckman</surname>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Eriksson</surname>
+</string-name>, <string-name name-style="western">
+<given-names>H.</given-names>
+<surname>Lagerlöf</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>M.</given-names>
+<surname>Sager</surname>
+</string-name>. <year>2019</year>. “<article-title>The Effects of Educational Interventions on Suicide: A Systematic Review and Meta‐Analysis</article-title>.” <source>International Journal of Social Psychiatry</source>
+<volume>65</volume>, no. <issue>5</issue>: <fpage>399</fpage>–<lpage>412</lpage>. <pub-id pub-id-type="doi">10.1177/0020764019852655</pub-id>.<pub-id pub-id-type="pmid">31159627</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0035"><mixed-citation publication-type="journal" id="mpr70064-cit-0035">
+<string-name name-style="western">
+<surname>Polanczyk</surname>, <given-names>G. V.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G. A.</given-names>
+<surname>Salum</surname>
+</string-name>, <string-name name-style="western">
+<given-names>L. S.</given-names>
+<surname>Sugaya</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Caye</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>L. A.</given-names>
+<surname>Rohde</surname>
+</string-name>. <year>2015</year>. “<article-title>Annual Research Review: A Meta‐Analysis of the Worldwide Prevalence of Mental Disorders in Children and Adolescents</article-title>.” <source>Journal of Child Psychology and Psychiatry</source>
+<volume>56</volume>, no. <issue>3</issue>: <fpage>345</fpage>–<lpage>365</lpage>. <pub-id pub-id-type="doi">10.1111/JCPP.12381</pub-id>.<pub-id pub-id-type="pmid">25649325</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0036"><mixed-citation publication-type="miscellaneous" id="mpr70064-cit-0036">“<article-title>REDCap ‐ Research Electronic Data Capture</article-title>.” <year>2016</year>. Accessed March 31, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.project-redcap.org/" ext-link-type="uri">https://www.project‐redcap.org/</ext-link>.</mixed-citation></ref><ref id="mpr70064-bib-0037"><mixed-citation publication-type="journal" id="mpr70064-cit-0037">
+<string-name name-style="western">
+<surname>Reeves</surname>, <given-names>K. W.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Vasconez</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>S. J.</given-names>
+<surname>Weiss</surname>
+</string-name>. <year>2022</year>. “<article-title>Characteristics of Suicidal Ideation: A Systematic Review</article-title>.” <source>Archives of Suicide Research</source>
+<volume>26</volume>, no. <issue>4</issue>: <fpage>1736</fpage>–<lpage>1756</lpage>. <pub-id pub-id-type="doi">10.1080/13811118.2021.2022551</pub-id>.<pub-id pub-id-type="pmid">35040371</pub-id>
+<pub-id pub-id-type="pmcid">PMC9642832</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0039"><mixed-citation publication-type="journal" id="mpr70064-cit-0039">
+<string-name name-style="western">
+<surname>Robinson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>E.</given-names>
+<surname>Bailey</surname>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Witt</surname>
+</string-name>, et al. <year>2018</year>. “<article-title>What Works in Youth Suicide Prevention? A Systematic Review and Meta‐Analysis</article-title>.” <source>eClinicalMedicine</source>
+<volume>4–5</volume>: <fpage>52</fpage>–<lpage>91</lpage>. <pub-id pub-id-type="doi">10.1016/J.ECLINM.2018.10.004</pub-id>.<pub-id pub-id-type="pmcid">PMC6537558</pub-id><pub-id pub-id-type="pmid">31193651</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0040"><mixed-citation publication-type="journal" id="mpr70064-cit-0040">
+<string-name name-style="western">
+<surname>Robinson</surname>, <given-names>J.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Cox</surname>
+</string-name>, <string-name name-style="western">
+<given-names>A.</given-names>
+<surname>Malone</surname>
+</string-name>, et al. <year>2013</year>. “<article-title>A Systematic Review of School‐Based Interventions Aimed at Preventing, Treating, and Responding to Suicide‐ Related Behavior in Young People</article-title>.” <source>Crisis</source>
+<volume>34</volume>, no. <issue>3</issue>: <fpage>164</fpage>–<lpage>182</lpage>. <pub-id pub-id-type="doi">10.1027/0227-5910/A000168</pub-id>.<pub-id pub-id-type="pmid">23195455</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0041"><mixed-citation publication-type="journal" id="mpr70064-cit-0041">
+<string-name name-style="western">
+<surname>Ruder</surname>, <given-names>T. D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>G. M.</given-names>
+<surname>Hatch</surname>
+</string-name>, <string-name name-style="western">
+<given-names>G.</given-names>
+<surname>Ampanozi</surname>
+</string-name>, <string-name name-style="western">
+<given-names>M. J.</given-names>
+<surname>Thali</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>N.</given-names>
+<surname>Fischer</surname>
+</string-name>. <year>2011</year>. “<article-title>Suicide Announcement on Facebook</article-title>.” <source>Crisis</source>
+<volume>32</volume>, no. <issue>5</issue>: <fpage>280</fpage>–<lpage>282</lpage>. <pub-id pub-id-type="doi">10.1027/0227-5910/A000086</pub-id>.<pub-id pub-id-type="pmid">21940257</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0042"><mixed-citation publication-type="journal" id="mpr70064-cit-0042">
+<string-name name-style="western">
+<surname>Wasserman</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. W.</given-names>
+<surname>Hoven</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wasserman</surname>
+</string-name>, et al. <year>2012</year>. “<article-title>Suicide Prevention for Youth ‐ A Mental Health Awareness Program: Lessons Learned From the Saving and Empowering Young Lives in Europe (SEYLE) Intervention Study</article-title>.” <source>BMC Public Health</source>
+<volume>12</volume>, no. <issue>1</issue>: <elocation-id>776</elocation-id>. <pub-id pub-id-type="doi">10.1186/1471-2458-12-776</pub-id>.<pub-id pub-id-type="pmid">22971152</pub-id>
+<pub-id pub-id-type="pmcid">PMC3584983</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0043"><mixed-citation publication-type="journal" id="mpr70064-cit-0043">
+<string-name name-style="western">
+<surname>Wasserman</surname>, <given-names>D.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>C. W.</given-names>
+<surname>Hoven</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C.</given-names>
+<surname>Wasserman</surname>
+</string-name>, et al. <year>2015</year>. “<article-title>School‐Based Suicide Prevention Programmes: The SEYLE Cluster‐Randomised, Controlled Trial</article-title>.” <source>Lancet</source>
+<volume>385</volume>, no. <issue>9977</issue>: <fpage>1536</fpage>–<lpage>1544</lpage>. <pub-id pub-id-type="doi">10.1016/S0140-6736(14)61213-7</pub-id>.<pub-id pub-id-type="pmid">25579833</pub-id>
+</mixed-citation></ref><ref id="mpr70064-bib-0044"><mixed-citation publication-type="journal" id="mpr70064-cit-0044">
+<string-name name-style="western">
+<surname>Wilcox</surname>, <given-names>H. C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>S. G.</given-names>
+<surname>Kellam</surname>
+</string-name>, <string-name name-style="western">
+<given-names>C. H.</given-names>
+<surname>Brown</surname>
+</string-name>, et al. <year>2008</year>. “<article-title>The Impact of Two Universal Randomized First‐ and Second‐Grade Classroom Interventions on Young Adult Suicide Ideation and Attempt</article-title>.” Supplement, <source>Drug and Alcohol Dependence</source>
+<volume>95</volume>: <fpage>S60</fpage>–<lpage>S73</lpage>. <pub-id pub-id-type="doi">10.1016/J.DRUGALCDEP.2008.01.005</pub-id>.<pub-id pub-id-type="pmid">18329189</pub-id>
+<pub-id pub-id-type="pmcid">PMC2637412</pub-id></mixed-citation></ref><ref id="mpr70064-bib-0045"><mixed-citation publication-type="journal" id="mpr70064-cit-0045">
+<string-name name-style="western">
+<surname>Wilson</surname>, <given-names>C.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>F.</given-names>
+<surname>Deane</surname>
+</string-name>, <string-name name-style="western">
+<given-names>J.</given-names>
+<surname>Ciarrochi</surname>
+</string-name>, and <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Rickwood</surname>
+</string-name>. <year>2005</year>. “<article-title>Measuring Help‐Seeking Intentions: Properties of the General Help‐Seeking Questionnaire</article-title>.” <source>Canadian Journal of Counselling</source>
+<volume>39</volume>: <fpage>15</fpage>–<lpage>28</lpage>. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://files.eric.ed.gov/fulltext/EJ719917.pdf" ext-link-type="uri">https://files.eric.ed.gov/fulltext/EJ719917.pdf</ext-link>.</mixed-citation></ref><ref id="mpr70064-bib-0046"><mixed-citation publication-type="miscellaneous" id="mpr70064-cit-0046">
+<collab collab-type="authors">World Health Organization</collab>
+. <year>2021</year>. “<article-title>Adolescent Mental Health</article-title>.” Accessed March 11, 2025. <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health" ext-link-type="uri">https://www.who.int/news‐room/fact‐sheets/detail/adolescent‐mental‐health</ext-link>.</mixed-citation></ref><ref id="mpr70064-bib-0047"><mixed-citation publication-type="journal" id="mpr70064-cit-0047">
+<string-name name-style="western">
+<surname>Zalsman</surname>, <given-names>G.</given-names>
+</string-name>, <string-name name-style="western">
+<given-names>K.</given-names>
+<surname>Hawton</surname>
+</string-name>, <string-name name-style="western">
+<given-names>D.</given-names>
+<surname>Wasserman</surname>
+</string-name>, et al. <year>2016</year>. “<article-title>Suicide Prevention Strategies Revisited: 10‐Year Systematic Review</article-title>.” <source>Lancet Psychiatry</source>
+<volume>3</volume>, no. <issue>7</issue>: <fpage>646</fpage>–<lpage>659</lpage>. <pub-id pub-id-type="doi">10.1016/S2215-0366(16)30030-X</pub-id>.<pub-id pub-id-type="pmid">27289303</pub-id>
+</mixed-citation></ref></ref-list></back></article>
