@@ -4,35 +4,33 @@
 
 **核心不是让 AI 替代人类写报告，而是让 AI 能写出人能看得懂的报告。**
 
-实验报告需要说清楚研究者想回答什么、如何比较、观察到了什么，以及结论在哪些条件下成立。这个技能帮助 AI 把文献、实验记录和讨论整理成有逻辑、可核对的报告；研究者仍需决定方案、核实事实并对最终结论负责。
+实验报告需要说清楚研究者想回答什么、如何比较、观察到了什么，以及结论在哪些条件下成立。这两个技能帮助 AI 把文献、实验记录和讨论整理成有逻辑、可核对的报告；研究者仍需决定方案、核实事实并对最终结论负责。
 
 ## 两个功能入口
 
-这是一项技能的两条**独立入口**，不是两个需要安装的技能。在 OMP 中，可以使用同一个技能命令，并用括号内的文字选择入口：
+这是两个独立的技能，分别安装和调用。以下为 OMP 的技能命令：
 
 ### 入口一：设计实验 / 实验设计报告
 
 **适用时机：实验还没做，正在形成方案。** 提供研究问题、已知条件、已有讨论或参考文献；AI 协助组织假设、比较、测量、分析计划和实施限制。
 
 ```text
-/skill:experimental-report-writing （实验设计）根据这些讨论和文献，设计实验并写一份报告。
+/skill:experimental-design 根据这些讨论和文献，设计实验并写一份报告。
 ```
 
-设计报告的计划和预期结果不能写成已经完成的操作或实测结果。[查看技能中的实验设计规则](SKILL.md#实验设计报告)。
+设计报告的计划和预期结果不能写成已经完成的操作或实测结果。[查看实验设计技能](skills/experimental-design/SKILL.md)。
 
 ### 入口二：实验结果报告
 
 **适用时机：实验已有记录或结果，需要向读者报告。** 提供实验记录、数据、图表和需要说明的偏差；AI 协助组织实际方法、比较、观察、异常和结论边界。
 
 ```text
-/skill:experimental-report-writing （实验结果）根据这些实验记录和图表，写一份结果报告。
+/skill:experimental-results 根据这些实验记录和图表，写一份结果报告。
 ```
 
-结果报告不能把设想、计划或其他研究的结果写成用户已经测得的数据。[查看技能中的实验结果规则](SKILL.md#实验结果报告)。
+结果报告不能把设想、计划或其他研究的结果写成用户已经测得的数据。[查看实验结果技能](skills/experimental-results/SKILL.md)。
 
-如果请求只说“实验报告”，技能先根据上下文判断；仍无法区分计划与实测时，询问这一点。若两种都需要，技能分别交付两份报告，不将设计与结果混成一份。两类报告共享清楚的段落和可追溯证据，但不共享一套强制章节。
-
-`/skill:experimental-report-writing` 是技能调用命令；`（实验设计）`和`（实验结果）`是传给该技能的入口参数，不是另外注册的斜杠命令。其他支持 Agent Skills 的工具也可以直接用自然语言指定“实验设计入口”或“实验结果入口”；具体斜杠命令格式取决于所用工具。
+如果两种报告都需要，分别调用两个技能并交付两份报告，不将设计与结果混成一份。其他支持 Agent Skills 的工具也可以按各自的技能调用方式使用。
 
 ## 完整案例
 
@@ -44,13 +42,16 @@
 
 ## 安装
 
-在支持 [Agent Skills](https://agentskills.io/) 的工具中，可安装本仓库的 `experimental-report-writing`：
+在支持 [Agent Skills](https://agentskills.io/) 的工具中，分别安装两个技能：
 
 ```sh
-npx skills add 2233admin/experimental-report-writing --skill experimental-report-writing
+npx skills add 2233admin/experimental-report-writing --skill experimental-design
+npx skills add 2233admin/experimental-report-writing --skill experimental-results
 ```
 
-也可以将整个仓库复制到所用工具的技能目录，并保留根目录的 `SKILL.md`、`scripts/` 和 `references/`。各工具的技能目录和加载方式可能不同。
+也可以分别将 `skills/experimental-design/` 和 `skills/experimental-results/` 复制到所用工具的技能目录。各工具的技能目录和加载方式可能不同。
+
+如果以前安装了单入口 `experimental-report-writing` 技能，请在所用工具中移除旧技能，再改用上面的两个命令。仓库名不变。
 
 没有原始数据时，技能应说明缺口，不应编造数字、引用或实验动作。AI 给出的解释和建议仍需由熟悉实验的研究者核查。
 
